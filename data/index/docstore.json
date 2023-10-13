@@ -1,0 +1,1721 @@
+{
+  "docstore/data": {
+    "9916c485-1702-4121-b659-0b18401df18c": {
+      "__data__": {
+        "id_": "9916c485-1702-4121-b659-0b18401df18c",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/about-us",
+            "node_type": null,
+            "metadata": {},
+            "hash": "e350e5833bb40d42036700fb14163cbb26f9a54f18d56f152836123be668c803"
+          },
+          "3": {
+            "node_id": "031a9bb3-9dfa-4e9a-9749-e0805038bbd8",
+            "node_type": null,
+            "metadata": {},
+            "hash": "9e671ee3b42feb367bc39d1fa7828c16e96bc9da5d3a01e996a6d69d74e5489d"
+          }
+        },
+        "hash": "84f833a7f7fa2c532a8355d4cc85475f1c7192c5a8ba6a95152fbc5b57b30f98",
+        "text": "**About NYC Housing connect** NYC Housing Connect is your portal to find and apply for affordable housing opportunities in New York City. What is affordable housing? - Housing is considered affordable if it costs about one-third or less of what the people living there get in income. The New York City Department of Housing Preservation and Development (HPD) and Housing Development Corporation (HDC) create affordable housing opportunities for many household income levels and sizes. The buildings are privately owned. HPD and HDC have a monitoring and oversight role. There are rental and homeownership opportunities. Rentals are regulated so the rent can't go up too much over time. Condos, coops, and 1-4 family homes have restricted prices.\n\nHow does Housing Connect work? - Through Housing Connect, you can find and apply for affordable rental and homeownership opportunities. To qualify, your household must meet the income and size requirements for a unit in the affordable development. Your household is all of the people who will live in the affordable unit.\n\nThere are two ways to access opportunities in Housing Connect. It is a good idea to do both: Apply to developments with open lotteries. - These are new and recently renovated buildings.\n\nClick \"yes\" that you wish to be considered for re-rentals/resale's. This question is in \"Re-rentals and Resale's\" section. - These are individual affordable units that become available when someone moves out.\n\n- (Link:- <https://youtu.be/i5vdppVH5qQ>)\n\n**Thinking about applying? Here's how to prepare:** You can improve your application with a few important steps. But these steps can take time -- get started today! Know your credit and rental history - If you apply for an affordable rental, and are reached for an eligibility review, you may be asked to undergo a credit check. You can also choose to provide proof of positive rental history instead of a credit check. To prepare for a credit check, make sure the information in your credit report is correct. You can get help understanding your credit report and learn how to improve it from a free, professional financial counselor. Go to nyc.gov/ready-to-rent for more information, or call 311 and ask for \"Ready to Rent.\"",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "031a9bb3-9dfa-4e9a-9749-e0805038bbd8": {
+      "__data__": {
+        "id_": "031a9bb3-9dfa-4e9a-9749-e0805038bbd8",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/about-us",
+            "node_type": null,
+            "metadata": {},
+            "hash": "e350e5833bb40d42036700fb14163cbb26f9a54f18d56f152836123be668c803"
+          },
+          "2": {
+            "node_id": "9916c485-1702-4121-b659-0b18401df18c",
+            "node_type": null,
+            "metadata": {},
+            "hash": "84f833a7f7fa2c532a8355d4cc85475f1c7192c5a8ba6a95152fbc5b57b30f98"
+          },
+          "3": {
+            "node_id": "e0d2b2d5-87ad-41fa-8b48-7c04051c2237",
+            "node_type": null,
+            "metadata": {},
+            "hash": "1f16d3a22d065468208aa222518cd50ed3c97741b5f1cc85ed8db6c624df85a8"
+          }
+        },
+        "hash": "9e671ee3b42feb367bc39d1fa7828c16e96bc9da5d3a01e996a6d69d74e5489d",
+        "text": "You can get help understanding your credit report and learn how to improve it from a free, professional financial counselor. Go to nyc.gov/ready-to-rent for more information, or call 311 and ask for \"Ready to Rent.\" You can also go to nyc.gov/consumers for more information, or call 311 and ask to make an appointment at an NYC Financial Empowerment Center. If you prefer to provide proof of 12 months\\' positive rental history in place of the credit check, prepare by collecting information about your current apartment, such as your current lease and receipts for rent. Go to the \"Do I qualify?\" section of the FAQ for more details.\n\nRemember: - You cannot be rejected from an affordable rental opportunity based solely on credit score (the number). If you undergo a credit check, you can only be disqualified for over \\$5,000 debt in collections or if you filed for bankruptcy within the last 12 months.You cannot be rejected for negative rental history. If you choose to provide proof of positive rental history in place of a credit check, that information can only be used to help you qualify.\n\nStart saving - You should save at least two months\\' rent to cover the first month and security deposit. You might want to save even more to cover moving expenses. Start saving for your move by finding a savings account that earns interest with a bank or credit union.If you have an IDNYC card, you can use it to open an account at many banks and credit unions. Go to nyc.gov/idnycbanks to find out where.\n\n- Get help saving money for moving from a free professional financial counselor. Go to nyc.gov/ready-to-rent for more information, or call 311 and ask for \"Ready to Rent.\"\n\n- You can also get help creating a budget, saving, or opening a bank account. Go to nyc.gov/consumers for more information or call 311 and ask to make an appointment at an NYC Financial Empowerment Center.\n\n> **How to Apply** To apply for an open lottery: - Make sure the information about your household is complete and up to date on Housing Connect.\n\n- Go to \"Open Lotteries\" to see what is available for applications. Are you interested in any of the buildings?",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "e0d2b2d5-87ad-41fa-8b48-7c04051c2237": {
+      "__data__": {
+        "id_": "e0d2b2d5-87ad-41fa-8b48-7c04051c2237",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/about-us",
+            "node_type": null,
+            "metadata": {},
+            "hash": "e350e5833bb40d42036700fb14163cbb26f9a54f18d56f152836123be668c803"
+          },
+          "2": {
+            "node_id": "031a9bb3-9dfa-4e9a-9749-e0805038bbd8",
+            "node_type": null,
+            "metadata": {},
+            "hash": "9e671ee3b42feb367bc39d1fa7828c16e96bc9da5d3a01e996a6d69d74e5489d"
+          },
+          "3": {
+            "node_id": "29cb523d-fec7-4b80-8939-c0feb457b1e4",
+            "node_type": null,
+            "metadata": {},
+            "hash": "81f0cfdcdbcc306c26355fa913d711986cd4e005a5c1d7bf79f3c6e0520f0fc1"
+          }
+        },
+        "hash": "1f16d3a22d065468208aa222518cd50ed3c97741b5f1cc85ed8db6c624df85a8",
+        "text": "> **How to Apply** To apply for an open lottery: - Make sure the information about your household is complete and up to date on Housing Connect.\n\n- Go to \"Open Lotteries\" to see what is available for applications. Are you interested in any of the buildings? Check the details to see if your household size and income fit the limits for the buildings.\n\n- Click \"Apply\" before the application deadline date.\n\n- It is very important to update your profile information immediately any time your household members or their incomes change. This can be before or after you apply to any specific development.\n\n> Need help? Not sure if you qualify? Visit our HPD Housing Ambassador page for help. You also call 311 and ask for a Housing Ambassador near you. After the deadline: - Each application gets a random number---a lottery log number. Lottery log numbers are random. No one controls who has a better or worse number.It does not matter if you applied first or last, online or on paper---your log number is random. Just make sure to apply before the deadline.\n\n- The Marketing Agent reviews the applications, beginning with set-asides and preferences.In new buildings, 5% of units are for households where someone has a mobility disability, and 2% for vision, or hearing disabilities. Usually, this is called a \"disability set-aside.\"Sometimes preference for a percentage of units is given to other categories of applicants. These preferences will be listed on the development's advertisement. Visit the FAQ for more details.\n\nAfter you apply: - It can take several months or longer to hear about your application. Sometimes you might not hear back even if you qualify. While you're waiting, carefully check what your current lease says about moving out before the lease is over. If you're offered an apartment, you might need to move quickly. If you aren't selected or don't hear back, keep searching for other apartments and apply when you are ready.\n\n> Be ready in case you are contacted for documents - If your application is selected, you'll be invited to respond to a document request. This interview is very important. Agents from the building will confirm if you qualify for the opportunity you applied for. Get ready ahead of time to make sure you're prepared.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "29cb523d-fec7-4b80-8939-c0feb457b1e4": {
+      "__data__": {
+        "id_": "29cb523d-fec7-4b80-8939-c0feb457b1e4",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/about-us",
+            "node_type": null,
+            "metadata": {},
+            "hash": "e350e5833bb40d42036700fb14163cbb26f9a54f18d56f152836123be668c803"
+          },
+          "2": {
+            "node_id": "e0d2b2d5-87ad-41fa-8b48-7c04051c2237",
+            "node_type": null,
+            "metadata": {},
+            "hash": "1f16d3a22d065468208aa222518cd50ed3c97741b5f1cc85ed8db6c624df85a8"
+          },
+          "3": {
+            "node_id": "884215ae-8a47-4ae3-b110-bb50b3e75f6f",
+            "node_type": null,
+            "metadata": {},
+            "hash": "b8f97fc2f2e3f48e60f94dac0500b6bbe38a48d9df32e09d2926e0928946efce"
+          }
+        },
+        "hash": "81f0cfdcdbcc306c26355fa913d711986cd4e005a5c1d7bf79f3c6e0520f0fc1",
+        "text": "This interview is very important. Agents from the building will confirm if you qualify for the opportunity you applied for. Get ready ahead of time to make sure you're prepared.\n\nGet important documents together - At the interview, you'll need to show documents that prove the information you put in our application. Start collecting copies today!\n\n- You'll have to show:\n\n- Who will live with you. Examples: birth certificates, picture IDs\n\n- The incomes of everyone who will live with you. Examples: pay stubs; federal or state tax returns; proof of Social Security, veteran, or public assistance benefits income\n\n- Information about your current apartment: Examples: your current lease, receipts for rent, recent gas or electric bills\n\n- See the After you Apply Checklist and Resources guide if you need help getting copies of these documents\n\nAfter sending in your documents You might have to do some follow-up steps to make sure your application is complete. After that...Your application might be accepted. You'll have to go through a few more steps before you decide if you want to sign a lease. You might get a rejection notice saying you don't qualify and the reason why. If this happens, you have the right to appeal. This means you'll get a chance to explain why you think the decision was not correct. - If you want to appeal, act quickly -- you only have 10 business days from the date of the postmark of the letter to submit an appeal!\n\n- Respond to the building agent explaining why you think you shouldn't have been turned down. Include any documents that support your appeal.\n\n- The building agents will review your appeal and send you a letter with the outcome.\n\n- If the appeal is successful, the agent will continue processing your application.\n\n- If your appeal is not successful, you'll receive an appeal rejection notice. If you think there's still an error, you can contact HPD or HDC within five business days with a complaint. Be sure to include an explanation of why you think there's an error. The notice will give you instructions.\n\n> Even if you don't qualify for one housing opportunity, applications you've submitted for other opportunities are still active. Keep updating your Housing Connect information and working on getting ready in case you're selected for another building!",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "884215ae-8a47-4ae3-b110-bb50b3e75f6f": {
+      "__data__": {
+        "id_": "884215ae-8a47-4ae3-b110-bb50b3e75f6f",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/about-us",
+            "node_type": null,
+            "metadata": {},
+            "hash": "e350e5833bb40d42036700fb14163cbb26f9a54f18d56f152836123be668c803"
+          },
+          "2": {
+            "node_id": "29cb523d-fec7-4b80-8939-c0feb457b1e4",
+            "node_type": null,
+            "metadata": {},
+            "hash": "81f0cfdcdbcc306c26355fa913d711986cd4e005a5c1d7bf79f3c6e0520f0fc1"
+          }
+        },
+        "hash": "b8f97fc2f2e3f48e60f94dac0500b6bbe38a48d9df32e09d2926e0928946efce",
+        "text": "The notice will give you instructions.\n\n> Even if you don't qualify for one housing opportunity, applications you've submitted for other opportunities are still active. Keep updating your Housing Connect information and working on getting ready in case you're selected for another building! **Ready to Apply** > The first step in applying to affordable housing is to create a Housing Connect profile. You will need information about the incomes of everyone who will live with you. Calculate your income - Income includes money you make from a regular job, owning your own business, and/or part-time work. It also includes other money you get from workers' compensation, the government (like Social Security or public assistance), and certain payments from investments and retirement.\n\n- Most of this information will be on the tax return you filed last year. If you work for someone else, include the amount you are paid before taxes (called your \"gross income\"). If you work for yourself, including the amount you make after taxes and other deductions (called \"net income\").\n\n- If you need more help understanding what counts as income, check out HPD's income guide for affordable housing applicants.\n\nSearch Housing - Use the Open Lotteries page to find current affordable housing opportunities. You can filter opportunities by household size, household income, minimum and maximum monthly rent, number of bedrooms, neighborhood, transportation options, and amenities offered.\n\n- Every listing will show you how many homes are available, how many people can live in each home, the income range your household must fall in to qualify, and when the application is due.\n\n- Remember: keep your Housing Connect profile up to date. For example, if you get a new job or lose a job, make sure to update it. Check your profile every time you apply for a new opportunity.\n\nApply - If you find a building that you qualify for, click the \"Apply Now!\" button.\n\n- Apply before the deadline! The application period can last from a few weeks to a couple of months, so leave yourself enough time.\n\n- As long as you apply before the deadline, it doesn't matter when you submit your application.\n\n- Don't send both paper and online applications; you may be disqualified.\n\n- For help filling out an application, contact a Housing Ambassador.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "19e72c81-80ac-4214-97ae-7064ca73ce5a": {
+      "__data__": {
+        "id_": "19e72c81-80ac-4214-97ae-7064ca73ce5a",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://www.nyc.gov/assets/hpd/downloads/pdfs/services/applying-to-affordable-housing-english.pdf",
+            "node_type": null,
+            "metadata": {},
+            "hash": "1d2660c6e99519f12dd679ebaa9ddf78eaa552c69499982f8cc58601d15f2047"
+          },
+          "3": {
+            "node_id": "d4bd8016-6e88-40e1-8501-94a45d101835",
+            "node_type": null,
+            "metadata": {},
+            "hash": "e9470319b341d272155c525db8744f28e510096a81533c2ca7c0b5df86b2d5a7"
+          }
+        },
+        "hash": "172e3f205e022a33ebc13d94d0c57148f9e1e8f26a71d0194fb073625c721880",
+        "text": "**Applying for Affordable Housing** What does it mean for housing to be \"affordable\"? Housing is considered affordable when households spend no more than about one-third of their income on rent. If a family has to spend more than one-third of their income on rent, they are considered 'rent burdened'. **WHERE TO GO** Begin your search for affordable housing at nyc.gov/housing connect **WHAT TO DO** **1 LOOK** - Find affordable housing listings on Housing Connector in newspapers.\n\n**2. LEARN** - Learn about eligibility and application requirements.\n\n**3. APPLY** - Register and apply online or mail your application in.\n\n**4. WAIT and PREPARE** - It may take 2 to 12months for applications to be processed.\n\n**5. QUALIFY** - If selected, submit eligibility documents\n\n**6. SIGN or REAPPLY** - Rent or buy if youare eligible. If rejected, challenge via appeal or apply to others\n\n**1 .LOOK** **Find Affordable Housing** **Listings** Visit NYC Housing Connect to view all developments accepting applications. NYC Housing Connect even includes existing affordable housing units that become available at turnover---these are called re-rental units:nyc.gov/housingconnect Call 311 and ask for the Affordable Housing Hotline. Look for advertisements in newspapers and posters at construction sites. Contact local community organizations, including Housing Ambassadors, for help. Find a list of Ambassadors on HPD'swebsite:nyc.gov/housingambassadorsRead the Ad Carefully Different affordable housing developments have different eligibility requirements. You may fall into different categories for different developments, depending on your household size and income. **2. LEARN** **Check to See If\\...** - Your combined household income is between a development's low and high limits. Find HPD informational guides, including the Income Guide, at:nyc.gov/hpd/findhousing\n\n- Your household meets the unit size requirements of the development.\n\n- You need help understanding your credit history. Visit one of the City's Financial Empowerment Centers to learn more: nyc.gov/ talk money\n\n**Find out if you qualify for a preference.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "d4bd8016-6e88-40e1-8501-94a45d101835": {
+      "__data__": {
+        "id_": "d4bd8016-6e88-40e1-8501-94a45d101835",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://www.nyc.gov/assets/hpd/downloads/pdfs/services/applying-to-affordable-housing-english.pdf",
+            "node_type": null,
+            "metadata": {},
+            "hash": "1d2660c6e99519f12dd679ebaa9ddf78eaa552c69499982f8cc58601d15f2047"
+          },
+          "2": {
+            "node_id": "19e72c81-80ac-4214-97ae-7064ca73ce5a",
+            "node_type": null,
+            "metadata": {},
+            "hash": "172e3f205e022a33ebc13d94d0c57148f9e1e8f26a71d0194fb073625c721880"
+          },
+          "3": {
+            "node_id": "32e91b0b-9044-4944-87bd-47e1b371557d",
+            "node_type": null,
+            "metadata": {},
+            "hash": "71a163369972ffccb6925e182694f05860f70d9fca074a7a9047ae09dcf6c8e3"
+          }
+        },
+        "hash": "e9470319b341d272155c525db8744f28e510096a81533c2ca7c0b5df86b2d5a7",
+        "text": "- You need help understanding your credit history. Visit one of the City's Financial Empowerment Centers to learn more: nyc.gov/ talk money\n\n**Find out if you qualify for a preference. Some units are reserved for people who\\...** - have a mobility, hearing, and/or vision disability.\n\n- live in the five boroughs.\n\n- live in the same Community District as the development. Find yours at: communityprofiles.planning.nyc.gov\n\n```{=html}\n<!-- -->\n```\n\n- -work for the City of New York.\n\n**3. APPLY** **Wait While Applications Are Processed** - After the deadline, all of the applications are put into a random order and assigned a log number. The developer reviews them in log number order (starting with those who meet preference categories) and contacts applicants. See Step 2 for a list of preference categories.\n\n**Prepare While You Wait** - A property may receive many thousands of applications. You may hear about the status of your application within two to twelve months after the deadline. Use this time to prepare to have your eligibility reviewed:- use HPD's informationalguides:nyc.gov/hpd/findhousing- begin saving documents in NYC Housing Connect:nyc.gov/housingconnect\n\n**Remember That You Might Not Hear Back** - Because there are so many applications, you may not be contacted, even if you could have qualified. You are most likely to be contacted if you are randomly assigned a low log number or you qualify for a preference.\n\n**4. WAIT and PREPARE** **Wait While Applications Are Processed** - After the deadline, all of the applications are put into a random order and assigned a log number. The developer reviews them in log number order (starting with those who meet preference categories) and contacts applicants. See Step 2 for a list of preference categories.\n\n**Prepare While You Wait** - A property may receive many thousands of applications. You may hear about the status of your application within two to twelve months after the deadline.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "32e91b0b-9044-4944-87bd-47e1b371557d": {
+      "__data__": {
+        "id_": "32e91b0b-9044-4944-87bd-47e1b371557d",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://www.nyc.gov/assets/hpd/downloads/pdfs/services/applying-to-affordable-housing-english.pdf",
+            "node_type": null,
+            "metadata": {},
+            "hash": "1d2660c6e99519f12dd679ebaa9ddf78eaa552c69499982f8cc58601d15f2047"
+          },
+          "2": {
+            "node_id": "d4bd8016-6e88-40e1-8501-94a45d101835",
+            "node_type": null,
+            "metadata": {},
+            "hash": "e9470319b341d272155c525db8744f28e510096a81533c2ca7c0b5df86b2d5a7"
+          },
+          "3": {
+            "node_id": "c7c5f9ff-ec65-4b6b-9d2b-cab4e422b63e",
+            "node_type": null,
+            "metadata": {},
+            "hash": "c13d349fc851b590578f4d73b2a9c29ade5ff629a1a61466884d94b8a306a4a0"
+          }
+        },
+        "hash": "71a163369972ffccb6925e182694f05860f70d9fca074a7a9047ae09dcf6c8e3",
+        "text": "See Step 2 for a list of preference categories.\n\n**Prepare While You Wait** - A property may receive many thousands of applications. You may hear about the status of your application within two to twelve months after the deadline. Use this time to prepare to have your eligibility reviewed:-use HPD's informational guides:\n\n- nyc.gov/hpd/find housing- begin saving documents in NYC Housing Connect:nyc.gov/housingconnect\n\n**Remember That You Might Not Hear Back** - Because there are so many applications, you may not be contacted, even if you could have qualified. You are most likely to be contacted if you are randomly assigned a low log number or you qualify for a preference.\n\n**5. QUALIFY** **Have Your Eligibility Reviewed** - If your log number comes up, the developer will contact you to submit documents. This is to confirm that you meet eligibility criteria. Respond immediately, passports are limited, and you will only have a few business days to submit your documents. Receiving a request for eligibility review does NOT guarantee that you will receive affordable housing.\n\n**Submit Documentation** - The developer's request will include a list of all documents you must provide. Prepare early (see step 4).If you applied online, you can upload all of your documents into Housing Connect, to share them directly with the developer. If you applied on paper, you will be asked to deliver your documents or submit them by mail.\n\n**Wait for Confirmation** - After the developer verifies your eligibility, HPD or HDC will review your file of accuracy. The developer will contact you if there are questions.\n\n**6. SIGN or REAPPLY** **Finalize the lease or purchase** - If you are found eligible, you may be offered the choice to sign a lease or pursue a purchase\n\n**Appeal the Decision** - If you are found not eligible, you will receive a rejection notice. If you disagree, follow the instructions on the rejection notice to appeal the decision.\n\n- In writing, explain the reason you believe the rejection was in error and provide supporting documentation.\n\n- The developer will contact you with the result of your appeal. If you disagree, follow the instructions on the appeal rejection notice to send a complaint to HPD or HDC.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "c7c5f9ff-ec65-4b6b-9d2b-cab4e422b63e": {
+      "__data__": {
+        "id_": "c7c5f9ff-ec65-4b6b-9d2b-cab4e422b63e",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://www.nyc.gov/assets/hpd/downloads/pdfs/services/applying-to-affordable-housing-english.pdf",
+            "node_type": null,
+            "metadata": {},
+            "hash": "1d2660c6e99519f12dd679ebaa9ddf78eaa552c69499982f8cc58601d15f2047"
+          },
+          "2": {
+            "node_id": "32e91b0b-9044-4944-87bd-47e1b371557d",
+            "node_type": null,
+            "metadata": {},
+            "hash": "71a163369972ffccb6925e182694f05860f70d9fca074a7a9047ae09dcf6c8e3"
+          }
+        },
+        "hash": "c13d349fc851b590578f4d73b2a9c29ade5ff629a1a61466884d94b8a306a4a0",
+        "text": "- In writing, explain the reason you believe the rejection was in error and provide supporting documentation.\n\n- The developer will contact you with the result of your appeal. If you disagree, follow the instructions on the appeal rejection notice to send a complaint to HPD or HDC.\n\n**Apply to Other Opportunities** - Don't get discouraged if you don't qualify for a development. New affordable housing opportunities become available all the time, and you can apply to as many as you want.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "649c8110-90ff-476a-bb1d-3d4a34cbf005": {
+      "__data__": {
+        "id_": "649c8110-90ff-476a-bb1d-3d4a34cbf005",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/faq",
+            "node_type": null,
+            "metadata": {},
+            "hash": "3f25801732d1d1fbff5a77b28862c31f7a83b5aab448935a8638132327ca9e6f"
+          },
+          "3": {
+            "node_id": "a1f193a1-557f-4aa4-8056-ea7cb8fe77fa",
+            "node_type": null,
+            "metadata": {},
+            "hash": "78db4d1f5da93940e531ed0df7e7a5140d33911c5164a6f7453f47185f6da46c"
+          }
+        },
+        "hash": "062115bd6bd72309d68417fd51fbaaab46540f84f5afc52cd8bba8130e8a399f",
+        "text": "[**https://housingconnect.nyc.gov/PublicWeb/faq**](\\l) **Frequently Asked Questions** **Application Process** **Is there any application fee?** - There is no fee to apply for housing using Housing Connect. You may be charged a non-refundable credit/background check fee.\n\n**Do I have to provide my SSN (Social Security Number) or ITIN (Individual Taxpayer Identification Number)?** - You are not required to provide your Social Security Number or Individual Taxpayer Identification Number in order to submit an application for an affordable housing lottery. You may leave the question blank. Do NOT enter a fake SSN (like \\\"000-00-0000\\\"), because that can slow down application processing.\n\n- If your application is reached and you qualify, you will be asked to undergo a credit check or demonstrate rental history. If you undergo a credit check, you will need to provide an SSN or ITIN.\n\n- Alternatively, you can provide proof of good rental history, which does not require you to provide an SSN or ITIN. In this case, the only forms of personal identification you need to provide are described in the \"request for documents\" section above (including IDNYC cards, drivers' licenses, and non-driver state ID cards).\n\n**Can I use my IDNYC card to apply for affordable housing?** - Yes, if your application is reached and you qualify, you can provide your IDNYC card as an acceptable form of personal ID. To learn more, read the FAQ sections on requested documentation and Social Security / Individual Taxpayer Numbers.\n\n**What should I expect after I apply for an affordable housing opportunity?** - Visit the About page to learn about the application process and the steps involved. You can also visit the Housing Connect Application Guides section of HPD\\'s website for more information and resources.\n\n**Once I submit my application, can I make a change?** - Yes. It is very important that you update your household and income information in NYC Housing Connect every time there is a change. The changes will show up on any of your applications where your lottery log number has not yet been reached.\n\n- Important: If your household summary is flagged as incomplete, your application may not be selected for processing or issued a log number.\n\n**Once I submit my application, can I withdraw it?** Yes.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "a1f193a1-557f-4aa4-8056-ea7cb8fe77fa": {
+      "__data__": {
+        "id_": "a1f193a1-557f-4aa4-8056-ea7cb8fe77fa",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/faq",
+            "node_type": null,
+            "metadata": {},
+            "hash": "3f25801732d1d1fbff5a77b28862c31f7a83b5aab448935a8638132327ca9e6f"
+          },
+          "2": {
+            "node_id": "649c8110-90ff-476a-bb1d-3d4a34cbf005",
+            "node_type": null,
+            "metadata": {},
+            "hash": "062115bd6bd72309d68417fd51fbaaab46540f84f5afc52cd8bba8130e8a399f"
+          },
+          "3": {
+            "node_id": "9f984b63-46ec-4c2d-b8e5-3fdc223481ca",
+            "node_type": null,
+            "metadata": {},
+            "hash": "1dce692b72e603d36f27a66ba79da7eaaef8c2f26da497940b69a9ab11d67c07"
+          }
+        },
+        "hash": "78db4d1f5da93940e531ed0df7e7a5140d33911c5164a6f7453f47185f6da46c",
+        "text": "- Important: If your household summary is flagged as incomplete, your application may not be selected for processing or issued a log number.\n\n**Once I submit my application, can I withdraw it?** Yes. To withdraw an application, log in to NYC Housing Connect. Go to your dashboard, and click on the development. At the bottom of the window, you will see the option to withdraw your application. This action cannot be undone. **What do I need to provide if I get a request for documents?** - The request for documents includes all required items to submit. This documentation is necessary to support the household information from your application and confirm that you qualify. These documents generally include but are not limited to personal IDs, pay stubs, tax returns, proof of address, and asset documentation.\n\n- Acceptable forms of personal ID include drivers' licenses, non-driver state ID cards, and IDNYC cards. Birth certificates or other forms of documentation like a school letter may be necessary for children under 18.\n\n- Make sure to include ALL requested documents in one submission, when you respond to the document request. After submitting your response, the option to submit more documents disappears until after the developer has reviewed.\n\n**I applied to a lottery but didn\\'t get a log number. What happened?** - Within a few weeks after the lottery application deadline, Housing Connect randomly assigns log numbers to all applicants whose applicant profiles (Household Info) are complete.\n\n- If your Household Info becomes incomplete after you apply but before log numbers are assigned, you will not receive a log number for that lottery. This could happen if you are in the process of making updates to your profile and have not completed them. It could also happen if someone in the household turns 18 but does not have any income or assets.\n\n- Please make sure your Household Info is complete and up to date at all times.\n\n**How do I know if I have been rejected?** - You can see the status of your applications on your Dashboard.\n\n- When your application is reached in a specific lottery, your Dashboard will show its status as ineligible if your household information (size and income) do not meet the development\\'s requirements.\n\n- If you respond to a request for documents to confirm that you qualify, but the marketing agent\\'s review determines that your household does not meet the guidelines, you will receive a rejection notice.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "9f984b63-46ec-4c2d-b8e5-3fdc223481ca": {
+      "__data__": {
+        "id_": "9f984b63-46ec-4c2d-b8e5-3fdc223481ca",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/faq",
+            "node_type": null,
+            "metadata": {},
+            "hash": "3f25801732d1d1fbff5a77b28862c31f7a83b5aab448935a8638132327ca9e6f"
+          },
+          "2": {
+            "node_id": "a1f193a1-557f-4aa4-8056-ea7cb8fe77fa",
+            "node_type": null,
+            "metadata": {},
+            "hash": "78db4d1f5da93940e531ed0df7e7a5140d33911c5164a6f7453f47185f6da46c"
+          },
+          "3": {
+            "node_id": "dea69f1a-2c8d-4b2e-9c71-e9df9db69c3d",
+            "node_type": null,
+            "metadata": {},
+            "hash": "bad4843c3c7b6b06934956dfeba6abefb9a1c029c12ea8845ab82ba9edb247ff"
+          }
+        },
+        "hash": "1dce692b72e603d36f27a66ba79da7eaaef8c2f26da497940b69a9ab11d67c07",
+        "text": "- If you respond to a request for documents to confirm that you qualify, but the marketing agent\\'s review determines that your household does not meet the guidelines, you will receive a rejection notice. The status will also appear on your Dashboard.\n\n- The most common reasons for rejection are not meeting income or household eligibility requirements. The federal government, HPD, and HDC set minimum and maximum requirements. You may also be disqualified if the household submitted more than one application per household for the development.\n\n**How do I appeal?** - If you receive and respond to a request for documents, the marketing agent for that development then conducts a review to confirm that you are eligible. If the review finds that you do not meet the requirements for the development, you will receive a rejection notice. This notice will come to your email and appear on your NYC Housing Connect dashboard. The notice will explain why you were rejected.\n\n- If you believe that you were rejected from a lottery in error, follow the instructions in the rejection notice. Act quickly. The notice will tell you how many days you have to submit an appeal. You will submit your appeal and supporting documentation through Housing Connect.\n\n- If your appeal to the marketing agent is not successful, you will receive an appeal rejection notice, with an explanation. This notice arrives via email and on your NYC Housing Connect dashboard. If you still believe you were wrongly rejected, follow the instructions in the notice to submit a complaint, with documentation, to either HPD or HDC. The instructions will provide the correct contact information for that lottery.\n\n**Why am I seeing an error message when I try to submit my appeal?** - Please try shortening the text you have included in \\\"Reason for Appeal\\\" textbox. You may include as many attachments as you\\'d like, but the appeal can only be submitted if the description in the \\\"Reason for Appeal\\\" textbox has fewer than 100 characters.\n\n**What is a Marketing Agent?** - Marketing Agents are people responsible for leasing or selling affordable housing. They work for the housing developer or owner. Sometimes the Marketing Agent is part of the developer's company. HPD and HDC monitor the leasing and sales processes.\n\n**What if I don\\'t want to apply online?** - If you don\\'t want to apply online, you have the option of submitting a paper application. You may have an application mailed to you.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "dea69f1a-2c8d-4b2e-9c71-e9df9db69c3d": {
+      "__data__": {
+        "id_": "dea69f1a-2c8d-4b2e-9c71-e9df9db69c3d",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/faq",
+            "node_type": null,
+            "metadata": {},
+            "hash": "3f25801732d1d1fbff5a77b28862c31f7a83b5aab448935a8638132327ca9e6f"
+          },
+          "2": {
+            "node_id": "9f984b63-46ec-4c2d-b8e5-3fdc223481ca",
+            "node_type": null,
+            "metadata": {},
+            "hash": "1dce692b72e603d36f27a66ba79da7eaaef8c2f26da497940b69a9ab11d67c07"
+          },
+          "3": {
+            "node_id": "97974302-ce3a-4ccd-8a7e-d9f9e6f9c1ca",
+            "node_type": null,
+            "metadata": {},
+            "hash": "760277b0b889326ed6d3c652ea65fde5a9b32edfca313ee48fe8a0da8d636af6"
+          }
+        },
+        "hash": "bad4843c3c7b6b06934956dfeba6abefb9a1c029c12ea8845ab82ba9edb247ff",
+        "text": "HPD and HDC monitor the leasing and sales processes.\n\n**What if I don\\'t want to apply online?** - If you don\\'t want to apply online, you have the option of submitting a paper application. You may have an application mailed to you. Refer to the details of any open lottery to learn more about having a paper application mailed to you and where complete applications must be sent.\n\n- Submit ONLY one application per household. You will be disqualified if more than one application is received per lottery for your household. If you submit an application online, you may NOT submit an application via mail. If you submit an application via mail, you may NOT submit an application online.\n\n**Income and Assets** **How is income calculated?** - The developer/managing agent will calculate income using annual gross income. You must indicate ALL sources of income for ALL household members who will be living in the unit for which you are applying.\n\n- Your annual gross income includes all sources of employment income and other income such as social security for each member of your household. Space is provided on the application to indicate each source of income. Please complete this section very carefully to ensure that the developer/managing agent has all information that may affect your eligibility.\n\n- For self-employed applicants, net income (Gross Income minus Expenses/Other Deductions) is analyzed. Such applicants must have at least two complete years in the same self-employed field.\n\n- Every applicant\\'s income will be considered in evaluating eligibility and used to document a continuing need for housing assistance. Furthermore, please note that all sources of income must be documented and verified.\n\n**What are the asset limits?** - There is a limit to the amount of total assets an applicant household may have and still remain eligible for affordable housing.\n\n- Household assets include financial assets such as savings accounts, checking accounts, trusts, investment assets (stocks, bonds, etc.), cash savings, miscellaneous investment holdings, etc. (Balances in specifically designated retirement funds and college savings accounts are not subject to the asset limit, but are counted when calculating income from assets.)\n\n- The entire market value of any interest in real property is subject to the asset limit (e.g. residential, commercial, land, shares in a co-op, etc.). For other capital investments, only the applicant's equity in the investment is subject to the asset limit.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "97974302-ce3a-4ccd-8a7e-d9f9e6f9c1ca": {
+      "__data__": {
+        "id_": "97974302-ce3a-4ccd-8a7e-d9f9e6f9c1ca",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/faq",
+            "node_type": null,
+            "metadata": {},
+            "hash": "3f25801732d1d1fbff5a77b28862c31f7a83b5aab448935a8638132327ca9e6f"
+          },
+          "2": {
+            "node_id": "dea69f1a-2c8d-4b2e-9c71-e9df9db69c3d",
+            "node_type": null,
+            "metadata": {},
+            "hash": "bad4843c3c7b6b06934956dfeba6abefb9a1c029c12ea8845ab82ba9edb247ff"
+          },
+          "3": {
+            "node_id": "93aaea58-cadf-4cd9-81f2-e87adb9bc6d5",
+            "node_type": null,
+            "metadata": {},
+            "hash": "c25495fd6debce2057555a0182042aaa8919d08897c4a552c8f7985161b9a5f8"
+          }
+        },
+        "hash": "760277b0b889326ed6d3c652ea65fde5a9b32edfca313ee48fe8a0da8d636af6",
+        "text": "- The entire market value of any interest in real property is subject to the asset limit (e.g. residential, commercial, land, shares in a co-op, etc.). For other capital investments, only the applicant's equity in the investment is subject to the asset limit.\n\n- The household asset limit for rental units is equal to the maximum income limit for a four (4)-person household at the area median income (AMI) level for which the unit is designated.\n\n- The household asset limit for all homeownership units is equal to the HUD maximum income limit for a four (4)-person household at 175% of the Area Median Income (AMI).\n\n- View this year\\'s asset limits.\n\n- For the full policies, see HPD-HDC Marketing Handbook, Section 5-5 B and C.\n\n**Why do I have to give so much information about my finances?** - It is important that HDC/HPD-financed units are rented or sold to applicants that qualify under the program requirements. In order to ensure fairness to all applicants, the developer/managing agent needs to certify that an applicant\\'s income falls within the income guidelines. All information is confidential and the developer/managing agents handle this information with the utmost discretion. Providing required information such as employment information, bank accounts, assets and Social Security Numbers (SSN)/Individual Taxpayer Identification Numbers (ITIN) is necessary for the developer/Marketing Agent to fully review and approve you for an affordable unit.\n\n**What is Area Median Income (AMI)?** - Area Median Income (AMI) is the median income levels as modified by household size for the New York metropolitan statistical area as determined by the Department of Housing and Urban Development (HUD.) For 2021, the AMI is \\$107,400 for a three-person family in the New York Metropolitan Statistical Area and \\$83,600 for a single person.\n\n- For more information visit <https://www1.nyc.gov/site/hpd/services-and-information/area-median-income.page>.\n\n**My minor (under 18) child receives SSI. How do I enter this income?** - Enter the SSI for your child (under 18 years old) under your own income as an adult in the household.\n\n**Can I apply my Section 8 voucher/certificate or other rental subsidy to affordable housing in NYC Housing Connect?",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "93aaea58-cadf-4cd9-81f2-e87adb9bc6d5": {
+      "__data__": {
+        "id_": "93aaea58-cadf-4cd9-81f2-e87adb9bc6d5",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/faq",
+            "node_type": null,
+            "metadata": {},
+            "hash": "3f25801732d1d1fbff5a77b28862c31f7a83b5aab448935a8638132327ca9e6f"
+          },
+          "2": {
+            "node_id": "97974302-ce3a-4ccd-8a7e-d9f9e6f9c1ca",
+            "node_type": null,
+            "metadata": {},
+            "hash": "760277b0b889326ed6d3c652ea65fde5a9b32edfca313ee48fe8a0da8d636af6"
+          },
+          "3": {
+            "node_id": "92c794e5-cd61-4364-9fd5-df69613ec09e",
+            "node_type": null,
+            "metadata": {},
+            "hash": "52ce1883e0d9efec5825bed396413497d1bf5d6edab4b4f88f341b02f8ef8663"
+          }
+        },
+        "hash": "c25495fd6debce2057555a0182042aaa8919d08897c4a552c8f7985161b9a5f8",
+        "text": "How do I enter this income?** - Enter the SSI for your child (under 18 years old) under your own income as an adult in the household.\n\n**Can I apply my Section 8 voucher/certificate or other rental subsidy to affordable housing in NYC Housing Connect?** - Yes. Vouchers and rental subsidies such as Section 8 Housing Choice Vouchers (HPD or NYCHA), City FHEPS, ISS, Medicaid Waiver, and VASH are all accepted. Minimum income requirements do not apply if you have a voucher or a rental subsidy. However, rent should be within maximum limits allowed by your voucher or rental assistance program.\n\n- This means that your household will not be disqualified for being under income if your household has a voucher that would cover your rent. This is true even if your household\\'s income is less than the eligible income you see on a lottery advertisement.\n\n- Please note that if your application is reached for a development, the marketing agent will contact you for proof of the subsidy and the amount of rent it covers. If you do not know the maximum rents covered by your rental assistance program, contact the agency that allocated your certificate or voucher.\n\n**What does \\\"paid by the City of New York\\\" mean?** - One of the profile questions is, \\\"Are you an employee of the City of New York? This means you are paid by the City of New York.\\\"\n\n- You should answer \\\"Yes\\\" to this question if you are a municipal employee and your paycheck comes from the City of New York. For example, you may work for the NYC Department of Education, FDNY, or the Human Resources Administration.\n\n- If you answer \\\"Yes\\\" to this question and your application comes up for processing, your employment with the City of New York will be verified as part of the eligibility review.\n\n**People with Disabilities** **What is a reasonable accommodation?** - Federal law prohibits discriminations against people with disabilities in housing. A reasonable accommodation is a change, adaptation, or modification to a policy, program, service, or workplace which will allow a qualified person with a disability to participate fully in a program. Examples of reasonable accommodations include the addition of a ramp to allow a wheelchair user to enter the building; allowing a service animal in a building that has a no pet policy.\n\n**What is a disability set-aside unit?",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "92c794e5-cd61-4364-9fd5-df69613ec09e": {
+      "__data__": {
+        "id_": "92c794e5-cd61-4364-9fd5-df69613ec09e",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/faq",
+            "node_type": null,
+            "metadata": {},
+            "hash": "3f25801732d1d1fbff5a77b28862c31f7a83b5aab448935a8638132327ca9e6f"
+          },
+          "2": {
+            "node_id": "93aaea58-cadf-4cd9-81f2-e87adb9bc6d5",
+            "node_type": null,
+            "metadata": {},
+            "hash": "c25495fd6debce2057555a0182042aaa8919d08897c4a552c8f7985161b9a5f8"
+          },
+          "3": {
+            "node_id": "45b1600b-0a0d-40b3-9f32-4d5b5187a15a",
+            "node_type": null,
+            "metadata": {},
+            "hash": "529021947c997d219a95343a5daeb5d72f971a00ea63eb103978dee9bf68e498"
+          }
+        },
+        "hash": "52ce1883e0d9efec5825bed396413497d1bf5d6edab4b4f88f341b02f8ef8663",
+        "text": "Examples of reasonable accommodations include the addition of a ramp to allow a wheelchair user to enter the building; allowing a service animal in a building that has a no pet policy.\n\n**What is a disability set-aside unit?** Many developments must create and designate specific affordable housing units for people with mobility, vision, and hearing disabilities. These are called \\\"disability set-aside units\\\" and they are designed according to the Uniform Federal Accessibility Standards (UFAS). - A mobility set-aside unit means that the floor plan and certain features are designed to be accessible to someone with a mobility disability. Once a household is approved for a unit set aside for people with disabilities, they have an opportunity to let the building owner know of any additional and specific accommodations they need (i.e., removable under-counter cabinets, etc.).\n\n- Vision/hearing units are wired to support alarm systems to serve people with hearing and visual disabilities. Similarly, additional features may be requested as needed (i.e. talking or braille appliances, etc.), once an applicant is approved for a unit.\n\n**I have a disability, but it does not affect my mobility, vision, or hearing. Can I still apply?** - At this time, our disability set asides are reserved for people with mobility, visual and hearing disabilities, and tied to federal funding and compliance with Section 504 of the Rehabilitation Act. Applicants who do not have a mobility, visual or hearing disability can still apply for affordable housing in the general affordable housing lottery and request reasonable accommodations from the owner if alterations to the unit are needed.\n\n**Do I Qualify?** **Do I have to go through a credit check?** Not necessarily. If the developer or marketing agent has confirmed that you qualify and there is a unit available, there is one more step: You can choose to (1) show that you have paid your full rent for the past 12 months or (2) have your credit reviewed. Option 1: Rent payment history. You will need to provide: - Proof of the amount you are supposed to pay in rent monthly, like your lease, a notarized affidavit from the building owner or manager, etc.\n\nAND - Proof that you have paid the full rent each month for the last 12 months.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "45b1600b-0a0d-40b3-9f32-4d5b5187a15a": {
+      "__data__": {
+        "id_": "45b1600b-0a0d-40b3-9f32-4d5b5187a15a",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/faq",
+            "node_type": null,
+            "metadata": {},
+            "hash": "3f25801732d1d1fbff5a77b28862c31f7a83b5aab448935a8638132327ca9e6f"
+          },
+          "2": {
+            "node_id": "92c794e5-cd61-4364-9fd5-df69613ec09e",
+            "node_type": null,
+            "metadata": {},
+            "hash": "52ce1883e0d9efec5825bed396413497d1bf5d6edab4b4f88f341b02f8ef8663"
+          },
+          "3": {
+            "node_id": "f1f847cb-733c-47f1-83a2-3e8763500507",
+            "node_type": null,
+            "metadata": {},
+            "hash": "58bf6a6101da6122a8b82b85b3d8b28bbcb095bfab0198bcb38e369af6a1d7bb"
+          }
+        },
+        "hash": "529021947c997d219a95343a5daeb5d72f971a00ea63eb103978dee9bf68e498",
+        "text": "You will need to provide: - Proof of the amount you are supposed to pay in rent monthly, like your lease, a notarized affidavit from the building owner or manager, etc.\n\nAND - Proof that you have paid the full rent each month for the last 12 months. For example:\n\n```{=html}\n<!-- -->\n```\n- Formal rent receipts\n\n- Evidence of monthly withdrawals, payments, or transfers, e.g., bank statements\n\n- Money order receipts or copies\n\n- Canceled checks\n\n```{=html}\n<!-- -->\n```\n- Landlord's written record of rent payments, i.e., rent ledger\n\nIf the evidence of rent payments that you provide is incomplete or difficult to verify, you may provide your written consent to the marketing agent to contact your current/previous building owner or manager for a rent ledger. Option 2: Agree to a credit review. - Has another building manager, owner, real estate broker, or other building representative run a credit and/or background check for you within the last 30 days?\n\n```{=html}\n<!-- -->\n```\n- Yes: bring your copy of the credit and/or background check. You could avoid an additional credit check and fee.\n\n- No: be prepared to pay a non-refundable credit/background check fee. All credit and background check fees may not exceed \\$20 per application.\n\n**What are the criteria for students applying for affordable housing?** - Student Loans/Grants are not considered income. Furthermore, for a unit with tax credits, a household cannot be made up entirely of full-time students unless the household qualifies for an exception under Federal law.\n\n**Can I apply for affordable housing with HPD if I have a voucher or rental subsidy?** - Yes. Vouchers and rental subsidies such as Section 8 (HPD or NYCHA), CityFHEPS, ISS, TBI, Medicaid Waiver, and VASH are all accepted. Minimum income requirements do not apply if you have a voucher or a rental subsidy. However, rent should be within maximum limits allowed by your voucher or rental assistance program.\n\n**I do not live in New York City. Can I apply through Housing Connect?** Yes, non-New York City residents can apply, however, preference is given to current New York City residents.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "f1f847cb-733c-47f1-83a2-3e8763500507": {
+      "__data__": {
+        "id_": "f1f847cb-733c-47f1-83a2-3e8763500507",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/faq",
+            "node_type": null,
+            "metadata": {},
+            "hash": "3f25801732d1d1fbff5a77b28862c31f7a83b5aab448935a8638132327ca9e6f"
+          },
+          "2": {
+            "node_id": "45b1600b-0a0d-40b3-9f32-4d5b5187a15a",
+            "node_type": null,
+            "metadata": {},
+            "hash": "529021947c997d219a95343a5daeb5d72f971a00ea63eb103978dee9bf68e498"
+          },
+          "3": {
+            "node_id": "6a36eaa2-ab52-4ffb-8c2a-c1778d759a5c",
+            "node_type": null,
+            "metadata": {},
+            "hash": "589a433185edc26cd705cd88dd0e4ba5ab14df1d8c7e82e49d1b7a5ffb5346c5"
+          }
+        },
+        "hash": "58bf6a6101da6122a8b82b85b3d8b28bbcb095bfab0198bcb38e369af6a1d7bb",
+        "text": "However, rent should be within maximum limits allowed by your voucher or rental assistance program.\n\n**I do not live in New York City. Can I apply through Housing Connect?** Yes, non-New York City residents can apply, however, preference is given to current New York City residents. New York City is defined as the five boroughs: The Bronx, Brooklyn, Manhattan, Queens, and Staten Island. What are the preferences? The City is committed to widening opportunities for affordable housing for all New Yorkers. Please note that all applicants, regardless of preference, must meet the income, employment, and other eligibility criteria set for each property for which they are applying. Preference is given to applicants that meet one or more of the following criteria: 1\\. Persons with Mobility, Hearing, and/or Vision Disabilities Federal disability statutes give preference to five percent (5%) of units for households applicants with a household member who has a mobility disability. Another two percent (2%) of units receive preference for households with a household member who has a hearing or vision disability. 2\\. Current Community Board Residents (CB) For developments financed by the City, current residents of the Community District or Community Board (CB) in which the property is located receive a preference for fifty percent (50%) of the units. The community preference was established to provide greater housing opportunities for long-time residents of New York City neighborhoods where HPD/HDC have made a significant investment in housing. This preference does not apply to developments that do not receive City financing, e.g., those that only receive a tax exemption. To learn which CB you live in, visit: NYC Community Boards 3\\. Municipal Employees The City recognizes that many New York City municipal employees are required to live within the five boroughs and can often find it very difficult to obtain affordable housing. The municipal employee preference makes five percent (5%) of the units in HPD- or HDC-financed developments available to current municipal employees. Down Payment Assistance for homeownership applicants is also available. HPD/HDC will also work with its partners to provide homeownership counseling and education to municipal employees interested in becoming homeowners. To qualify for the municipal employee preference, you must be paid by the City of New York. City employees will be screened to ensure that no conflict of interest exists. If you are unsure whether you may have a conflict of interest, check with your agency.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "6a36eaa2-ab52-4ffb-8c2a-c1778d759a5c": {
+      "__data__": {
+        "id_": "6a36eaa2-ab52-4ffb-8c2a-c1778d759a5c",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/faq",
+            "node_type": null,
+            "metadata": {},
+            "hash": "3f25801732d1d1fbff5a77b28862c31f7a83b5aab448935a8638132327ca9e6f"
+          },
+          "2": {
+            "node_id": "f1f847cb-733c-47f1-83a2-3e8763500507",
+            "node_type": null,
+            "metadata": {},
+            "hash": "58bf6a6101da6122a8b82b85b3d8b28bbcb095bfab0198bcb38e369af6a1d7bb"
+          },
+          "3": {
+            "node_id": "c14091a3-4eab-408f-bb51-319af2d88f4e",
+            "node_type": null,
+            "metadata": {},
+            "hash": "afb398f6b704639b78f6d061204e5a452e2050f6d29a915492b4e46b6a516abc"
+          }
+        },
+        "hash": "589a433185edc26cd705cd88dd0e4ba5ab14df1d8c7e82e49d1b7a5ffb5346c5",
+        "text": "To qualify for the municipal employee preference, you must be paid by the City of New York. City employees will be screened to ensure that no conflict of interest exists. If you are unsure whether you may have a conflict of interest, check with your agency. 4\\. Project-specific Preferences As part of the agreements set forth for a specific development, additional preferences may apply. Such preferences may include, but are not limited to, preferences for Seniors or Veterans. These preferences are listed in the advertisement for the development. **Can I apply my Section 8 voucher/certificate or other rental subsidy to affordable housing in NYC Housing Connect?** - Yes. Vouchers and rental subsidies such as Section 8 Housing Choice Vouchers (HPD or NYCHA), City FHEPS, ISS, Medicaid Waiver, and VASH are all accepted. Minimum income requirements do not apply if you have a voucher or a rental subsidy. However, rent should be within maximum limits allowed by your voucher or rental assistance program.\n\n**This means that your household will not be disqualified for being under income if your household has a voucher that would cover your rent.** This is true even if your household\\'s income is less than the eligible income you see on a lottery advertisement. Please note that if your application is reached for a development, the marketing agent will contact you for proof of the subsidy and the amount of rent it covers. If you do not know the maximum rents covered by your rental assistance program, contact the agency that allocated your certificate or voucher. **I have an Emergency Housing Voucher (EHV). How do I enter this in Housing Connect?** If you have an Emergency Housing Voucher (EHV): 1\\. Go to the Household section of your profile. 2\\. When you get to the question, \\\"Does anyone in your household receive rental assistance that will move with them to a new apartment?\\\" **Answer \\\"yes.\\\"** To the question about rental assistance type, **check the box for either \\\"Section 8 Housing Choice Voucher from HPD\\\" or \\\"Section 8 voucher from NYCHA.\\\"** Your answer depends on which agency administered your voucher. Emergency Housing Vouchers (EHVs) are Housing Choice Vouchers (Section 8) funded through the American Rescue Plan and offered through the U.S. Department of Housing and Urban Development (HUD).",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "c14091a3-4eab-408f-bb51-319af2d88f4e": {
+      "__data__": {
+        "id_": "c14091a3-4eab-408f-bb51-319af2d88f4e",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/faq",
+            "node_type": null,
+            "metadata": {},
+            "hash": "3f25801732d1d1fbff5a77b28862c31f7a83b5aab448935a8638132327ca9e6f"
+          },
+          "2": {
+            "node_id": "6a36eaa2-ab52-4ffb-8c2a-c1778d759a5c",
+            "node_type": null,
+            "metadata": {},
+            "hash": "589a433185edc26cd705cd88dd0e4ba5ab14df1d8c7e82e49d1b7a5ffb5346c5"
+          },
+          "3": {
+            "node_id": "b7a83683-2268-4d28-a936-fab4a74f1ecf",
+            "node_type": null,
+            "metadata": {},
+            "hash": "6e6ba02b659ac92dba7adfc67b7b7ecb69ea6ebe1d5a69a859f6578824273100"
+          }
+        },
+        "hash": "afb398f6b704639b78f6d061204e5a452e2050f6d29a915492b4e46b6a516abc",
+        "text": "Emergency Housing Vouchers (EHVs) are Housing Choice Vouchers (Section 8) funded through the American Rescue Plan and offered through the U.S. Department of Housing and Urban Development (HUD). **About this Website** **Who maintains NYC Housing Connect? What security measures are in place to protect my personal data?** The NYC Department of Information Technology and Telecommunications and the NYC Department of Housing Preservation and Development maintain the website. The website has been accredited under the Citywide Information Security Program which ensures the overall security of the City\\'s data and information, including your data in NYC Housing Connect. **Why do I receive emails in relation to this website?** By creating an account on NYC Housing Connect you agree to notices in relation to website activities, including but not limited to: new projects open for application, updated website features, advice on how to fill out an application, and upcoming developments. **HELP** **How do I contact NYC Housing Connect?** - Do you have a question or feedback for us? Please send a message to nychousingconnect@hpd.nyc.gov. Your comments will assist us in improving the site.\n\n- We value your feedback, and we do our best to answer questions in a timely manner. Unfortunately, we may not be able to respond to all messages.\n\n- You may also call our applicant hotline at 212-863-7990. We answer calls from 9am to 5pm on weekdays, and respond to voicemails left at other times.\n\n**Can I log in with my account from the original (old) Housing Connect website?** - No, please create a new account in the new Housing Connect (this website). Your old account information does not carry over to this new website.\n\n**When I try to apply for a project, I see an error message that says \"There was an issue completing the address. Please try again later.\" What should I do?** - Your Housing Connect profile might not be complete. Before you apply for a development, please go to \\\"My Household\\\" and make sure you have entered all required information. Be sure to check that the Household Summary section and the profiles for every household member are complete.\n\n**I am not able to log in, and I see a message saying that I am locked out. What can I do?",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "b7a83683-2268-4d28-a936-fab4a74f1ecf": {
+      "__data__": {
+        "id_": "b7a83683-2268-4d28-a936-fab4a74f1ecf",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/faq",
+            "node_type": null,
+            "metadata": {},
+            "hash": "3f25801732d1d1fbff5a77b28862c31f7a83b5aab448935a8638132327ca9e6f"
+          },
+          "2": {
+            "node_id": "c14091a3-4eab-408f-bb51-319af2d88f4e",
+            "node_type": null,
+            "metadata": {},
+            "hash": "afb398f6b704639b78f6d061204e5a452e2050f6d29a915492b4e46b6a516abc"
+          }
+        },
+        "hash": "6e6ba02b659ac92dba7adfc67b7b7ecb69ea6ebe1d5a69a859f6578824273100",
+        "text": "Be sure to check that the Household Summary section and the profiles for every household member are complete.\n\n**I am not able to log in, and I see a message saying that I am locked out. What can I do?** - The system will lock you out if you have tried to log in too many times unsuccessfully. Wait least 15 minutes, then click \"forgot password\" and follow the instructions to reset your password.\n\n- Don't forget that your username is not your email. Your username is an alphanumeric handle you created when you first registered.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "b5e745eb-39ec-4a4c-b680-3c51fafdcbc6": {
+      "__data__": {
+        "id_": "b5e745eb-39ec-4a4c-b680-3c51fafdcbc6",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/about-us/training",
+            "node_type": null,
+            "metadata": {},
+            "hash": "e5c3122d99c173890f477251ab3098af7c02a4484846c81f1bda6b8cf8072635"
+          },
+          "3": {
+            "node_id": "48d5531d-36f8-4455-8763-8a381de45a07",
+            "node_type": null,
+            "metadata": {},
+            "hash": "61984b9248b890c684c5c6fd918fd01bce5cdee11d0639979c07869b775a675e"
+          }
+        },
+        "hash": "718eb8f5ba06219c7bec5448756d861d3aad641a641025dc1316080b4441b02d",
+        "text": "**Learn how to use Housing Connect** **House connect Training** **Public Portal Intro** - The Housing Connect public portal allows you to access affordable housing opportunities in New York City. These can be rental and homeownership opportunities. We have created a website where you can sign up, register, create a profile, apply and follow-up on applications to these housing opportunities.\n\n- The home page provides useful information on housing opportunities across the five boroughs. You can also use the eligibility determination widget to browse for opportunities based on your household size and total household income.\n\n- The results from browsing are displayed in a card format. Every card provides an overview of the development. This includes images of the development, the lottery deadline date, location of the buildings, number of units available, transit options, and more. You can click on details tab to view more information about the units advertised in the housing lottery, You can also click on the map to view the location of the housing opportunity.\n\n- The about page on the website provides information and rules associated with the lottery process. There is a lot of useful information to know before and after you apply to a lottery made available through Housing Connect.\n\n**Registration** - Registration allows new users to sign up using the website. Click Register in the top right corner to access the registration page. The registration process begins by entering a unique username. The username can only include text and numbers. Make your username something you will remember for future log-ins. Following this, set up a password for the website. There are rules associated with password strength and these will be displayed to you when you place the cursor in the password field. Enter it twice correctly.\n\n- After this, you will be required to enter your primary email where the account registration confirmation email will be sent. In addition, to ensure your security, we require a 2nd factor for authentication. This can be an alternate email or your cell phone number. Provide these details so that the 6-digit authentication code can be emailed or texted to you. Complete the registration by select the 2 checkboxes.\n\n- At this point, an email notification will be sent to your primary email address. Please click the confirmation link and follow the instructions in the email for the 6-digit code.\n\n**Account Setup** - Open the email inbox you assigned as your primary email address. You will have received an email with a confirmation link.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "48d5531d-36f8-4455-8763-8a381de45a07": {
+      "__data__": {
+        "id_": "48d5531d-36f8-4455-8763-8a381de45a07",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/about-us/training",
+            "node_type": null,
+            "metadata": {},
+            "hash": "e5c3122d99c173890f477251ab3098af7c02a4484846c81f1bda6b8cf8072635"
+          },
+          "2": {
+            "node_id": "b5e745eb-39ec-4a4c-b680-3c51fafdcbc6",
+            "node_type": null,
+            "metadata": {},
+            "hash": "718eb8f5ba06219c7bec5448756d861d3aad641a641025dc1316080b4441b02d"
+          },
+          "3": {
+            "node_id": "7e0019e8-e9dd-4b5f-9e55-2f28a123dcb6",
+            "node_type": null,
+            "metadata": {},
+            "hash": "a2267eb1380b824ebbb7dccd6d8d1ae64080a95bf008f346d0fc4b4f9cbd984b"
+          }
+        },
+        "hash": "61984b9248b890c684c5c6fd918fd01bce5cdee11d0639979c07869b775a675e",
+        "text": "Please click the confirmation link and follow the instructions in the email for the 6-digit code.\n\n**Account Setup** - Open the email inbox you assigned as your primary email address. You will have received an email with a confirmation link. Click on the link. This will open a page to enter the 6 digit confirmation code to your cell phone or alternate email. Access you secondary contact method and copy the code sent there. Paste the copied value in the field for the code and click submit. This will complete the account setup.\n\n- You can now login using your username and password. The first time you log-in, you will be asked to confirm your account information by entering your name. Make sure you hit save.\n\n**House hold Setup** - Household setup allows you to list the members that you want to live with. Following login, you will be taken here automatically if you have not already entered this information. Alternatively, you can also click the links in the top right corner to access this page.\n\n- Your information is carried from the registration page. You can now specify the remaining members of the household and your relationship to them. You can add as many household members as you need.\n\n- Click next once you are done and provide your current living address. This field includes an address locator. As soon as you input the street number and address, we will retrieve the matching results and display it. You will have to manually enter the apartment number.\n\n- Household set-up will display one question at a time. Follow the prompts in the each set of questions and click Save in the bottom right hand corner at the end. This will take you back to the household summary page. Please note that the incomplete icons are showing because you still have to provide additional details for each household member.\n\n**Personal Info** Every household member must enter relevant personal details to complete your household profile. The process begins from the dashboard. Click on edit profile button next to each household member to be presented with the applicable questions. Respond to each question truthfully and accurately. Some questions have descriptions and links for more information to help you understand why each question is being asked. If you miss a mandatory question, you will be prevented from moving forward. **Income Info** - After you complete your personal details, you will be asked for income details.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "7e0019e8-e9dd-4b5f-9e55-2f28a123dcb6": {
+      "__data__": {
+        "id_": "7e0019e8-e9dd-4b5f-9e55-2f28a123dcb6",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/about-us/training",
+            "node_type": null,
+            "metadata": {},
+            "hash": "e5c3122d99c173890f477251ab3098af7c02a4484846c81f1bda6b8cf8072635"
+          },
+          "2": {
+            "node_id": "48d5531d-36f8-4455-8763-8a381de45a07",
+            "node_type": null,
+            "metadata": {},
+            "hash": "61984b9248b890c684c5c6fd918fd01bce5cdee11d0639979c07869b775a675e"
+          },
+          "3": {
+            "node_id": "188508c1-debd-47f9-8fd1-17e2787bf710",
+            "node_type": null,
+            "metadata": {},
+            "hash": "eed6af0879248a8b5b615463f9dfe56cb0890037618527d0a56cccc2d5d6c303"
+          }
+        },
+        "hash": "a2267eb1380b824ebbb7dccd6d8d1ae64080a95bf008f346d0fc4b4f9cbd984b",
+        "text": "Some questions have descriptions and links for more information to help you understand why each question is being asked. If you miss a mandatory question, you will be prevented from moving forward. **Income Info** - After you complete your personal details, you will be asked for income details. You can record multiple income sources for each member, Select the source that matches your income type and begin the questionnaire to respond one question at a time.\n\n- A key part of recording income for each employer is the annual wages. You can indicate if you know your annual wages from your most recent tax filing. If you do, you will be required to submit the income based on the appropriate IRS Filing. If you do not have information from the tax filing, you can submit your estimated annual income.\n\n- Please note that the income questions are an important part of the eligibility process, so you should take your time to make sure you answer them correctly. If you have specific questions, please review the FAQ section for answers. You can also go back change or update the employment details as needed.\n\n**Asset Info** - Once you have recorded your income details, you can add additional income details or, when you're done, move on to recording assets. The questionnaire will walk you through the asset questions. Just like in income details, you can record multiple asset types for each household member. Examples of assets you can enter include checking accounts, savings accounts, retirement accounts, brokerage accounts, and investment accounts.\n\n- You can also record any real estate you own. Alternatively, you can indicate that you do not have any real estate and complete the questionnaire for this household member.\n\n- Please remember to repeat the personal, income and asset questionnaires for each member of the household to complete your profile.\n\n**Housing Choices** - Once you have the household details for each household member completed, you can indicate your housing choices. Housing Choices allows you to opt-into re-rental and re-sale housing opportunities, if you are interested. Housing choices will walk you through questions to record your criteria for re-rental/re-sale opportunities by neighborhood and unit types. Please note that your answers to these questions will determine what re-sale or re-rental opportunities you are considered for, so keep that in mind when determining how specific you want your answers to be.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "188508c1-debd-47f9-8fd1-17e2787bf710": {
+      "__data__": {
+        "id_": "188508c1-debd-47f9-8fd1-17e2787bf710",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/about-us/training",
+            "node_type": null,
+            "metadata": {},
+            "hash": "e5c3122d99c173890f477251ab3098af7c02a4484846c81f1bda6b8cf8072635"
+          },
+          "2": {
+            "node_id": "7e0019e8-e9dd-4b5f-9e55-2f28a123dcb6",
+            "node_type": null,
+            "metadata": {},
+            "hash": "a2267eb1380b824ebbb7dccd6d8d1ae64080a95bf008f346d0fc4b4f9cbd984b"
+          },
+          "3": {
+            "node_id": "98ea6624-ad95-45bd-a2eb-78b3af3cb9e7",
+            "node_type": null,
+            "metadata": {},
+            "hash": "b157da1b59e17a1ac94fc82b0631812f22a41c0fd2b7c987419bb091aac3a665"
+          }
+        },
+        "hash": "eed6af0879248a8b5b615463f9dfe56cb0890037618527d0a56cccc2d5d6c303",
+        "text": "Please note that your answers to these questions will determine what re-sale or re-rental opportunities you are considered for, so keep that in mind when determining how specific you want your answers to be.\n\n**Search Refine** - Housing Connect allows you to search for affordable housing opportunities made available using the website. You can search between rental and homeownership opportunities. Click on refine search to access options to narrow the results displayed. You can refine based on any one or a combination of these options, such as rent, income, household size, or neighborhood. Click search to show the results.\n\n- You see the results displayed under the refine search button. You can clear the search results by clicking Clear Filter to see all of the available lotteries again.\n\n**Apply to Lottery** - Let's now apply to a lottery. On the search page, all active lotteries are displayed in a card view. The card displays some project details without having to click and review the lottery in greater details. Remember that you are not applying for a specific unit, but rather, to the lottery which can consist of multiple unit types.\n\n- The summary provides an overview of the development, the details provides the units offered and the map provides an aerial view where the housing opportunity is located.\n\n- To apply to a lottery, click on the card to open the lottery advertisement. The available units & requirements table displays the unit details based on Household size and income. Review this list to ensure your household profile falls within the income bands of what is displayed here.\n\n- To apply, click on Apply Now. This will display your Household Size and Income based on the profile questionnaire that you responded to. Check the terms and conditions and click submit. This completes your submission for the lottery.\n\n**Document Upload** - Housing Connect includes secure document storage that you can use at any time to upload documentation that is needed for all affordable housing opportunities. The idea is to maintain documents such as birth certificates, government IDs, and/or tax returns in the secure document store and use it on multiple applications.\n\n- To access this feature, click on My Documents under your name. Locate the document you want to upload and give it a description so you remember what document it is. Click upload; now you document is safely and securely uploaded to your profile.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "98ea6624-ad95-45bd-a2eb-78b3af3cb9e7": {
+      "__data__": {
+        "id_": "98ea6624-ad95-45bd-a2eb-78b3af3cb9e7",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb/about-us/training",
+            "node_type": null,
+            "metadata": {},
+            "hash": "e5c3122d99c173890f477251ab3098af7c02a4484846c81f1bda6b8cf8072635"
+          },
+          "2": {
+            "node_id": "188508c1-debd-47f9-8fd1-17e2787bf710",
+            "node_type": null,
+            "metadata": {},
+            "hash": "eed6af0879248a8b5b615463f9dfe56cb0890037618527d0a56cccc2d5d6c303"
+          }
+        },
+        "hash": "b157da1b59e17a1ac94fc82b0631812f22a41c0fd2b7c987419bb091aac3a665",
+        "text": "- To access this feature, click on My Documents under your name. Locate the document you want to upload and give it a description so you remember what document it is. Click upload; now you document is safely and securely uploaded to your profile.\n\n**My Applications** - After you apply to lotteries on Housing Connect, you can always check the status of those applications. The best way to access your current application status or to know what is needed is to go to your dashboard.\n\n- The dashboard provides simple and clear instructions on what is expected from you. You can review My Application Summary and check if any item is listed under Action Needed. The same items will also be listed under Messages.\n\n- Click on them to find out the details. Action needed means you need to do something to move your application along. Examples could be a document needs to be uploaded, an appointment needs to be confirmed, or a unit offer needs to be accepted. You will see a label indicating exactly what is needed from you. Follow the prompts to complete the necessary action.\n\n**Change Password** To change your password or other account preferences, click My Account under your name. You can change your current password, your language preferences for receiving communications, and the methods for contacting you when authenticating key actions performed in the system.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "54baaf4f-ecf1-4f69-9318-41694d530dc5": {
+      "__data__": {
+        "id_": "54baaf4f-ecf1-4f69-9318-41694d530dc5",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "http://www.nyc.gov/privacy ",
+            "node_type": null,
+            "metadata": {},
+            "hash": "b8637ee7c427ea13b0dca42b9dd7c85e492681269b01d6eee1fbb71c951b5bd9"
+          },
+          "3": {
+            "node_id": "c4ec6a71-5bc9-4e9c-a20c-552ff888d31c",
+            "node_type": null,
+            "metadata": {},
+            "hash": "035843027a245ce9d9419fde2a24e4da16f20ab68fd53bc4115a4c0cfbfa3c58"
+          }
+        },
+        "hash": "4d0a14b6195c80a34021cb8a922fe31d4d9b12448e75d630eb379095e7dec40e",
+        "text": "**NYC.gov Privacy Policy** **Collection of Information by NYC.gov** In order to improve the content and usability of this website, the City of New York (the \\\"City\\\") automatically collects several categories of information from users. This information includes the following: The apparent Internet Protocol (\\\"IP\\\") address of your Internet Service Provider (\\\"ISP\\\") and/or your computer, if your computer has an IP address assigned directly to it. 1 - The apparent Fully Qualified Domain Name (\\\"Domain Name\\\") of your Internet Service Provider (\\\"ISP\\\") and/or your computer, if your computer has a domain name assigned directly to it. 2\n\n- The type of browser (such as, for example Internet Explorer, Opera, Firefox, Chrome, etc.) used and the operating system resident on a user\\'s computer.\n\n- The date and time a user visited the site.\n\n- The web pages accessed at the site, as well as any applications used and forms data.\n\n- The Uniform Resource Locator (\\\"URL\\\") of the site which a user visited prior to NYC.gov (if detectable), if such user did not connect directly to NYC.gov, or use it as a homepage or \\\"Portal\\\".\n\n- The City uses this information to identify site performance needs; to ensure compatibility with the technology used by NYC.gov\\'s visitors, and to generally add and improve services offered on NYC.gov. In order to accomplish those goals, from time to time, the City may conduct statistical analysis of the data it collects.\n\n- The City does not collect data for commercial or marketing purposes, 3 and the City does not sell, exchange, or otherwise distribute the data collected by NYC.gov for commercial or marketing purposes.\n\n**Information Submitted to NYC.gov** During a session on NYC.gov, a user may affirmatively submit information to the City by, among other means, electronic mail (\\\"e-mail\\\"), filling in and submitting an on-line form, screening for benefits and services, or electing to personalize NYC.gov and use it as a customized portal. Such affirmatively submitted information is stored in a secure environment, and will be used by the City in furtherance of its duties and/or obligations to its citizenry (i.e., \\\"governmental purposes\\\").",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "c4ec6a71-5bc9-4e9c-a20c-552ff888d31c": {
+      "__data__": {
+        "id_": "c4ec6a71-5bc9-4e9c-a20c-552ff888d31c",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "http://www.nyc.gov/privacy ",
+            "node_type": null,
+            "metadata": {},
+            "hash": "b8637ee7c427ea13b0dca42b9dd7c85e492681269b01d6eee1fbb71c951b5bd9"
+          },
+          "2": {
+            "node_id": "54baaf4f-ecf1-4f69-9318-41694d530dc5",
+            "node_type": null,
+            "metadata": {},
+            "hash": "4d0a14b6195c80a34021cb8a922fe31d4d9b12448e75d630eb379095e7dec40e"
+          },
+          "3": {
+            "node_id": "83676253-9386-4cc2-a572-9e5191c88ed5",
+            "node_type": null,
+            "metadata": {},
+            "hash": "aa36193ba9252da686cdd2df8872e97111dd9108fb52a3b9b21f739e2824eb53"
+          }
+        },
+        "hash": "035843027a245ce9d9419fde2a24e4da16f20ab68fd53bc4115a4c0cfbfa3c58",
+        "text": "Such affirmatively submitted information is stored in a secure environment, and will be used by the City in furtherance of its duties and/or obligations to its citizenry (i.e., \\\"governmental purposes\\\"). 4 The governmental purposes to which your affirmatively submitted information may include, but are not limited to, the following: - Helping the City respond to a request for information not readily available from NYC.gov\n\n- Investigating a problem reported to the City via NYC.gov 5\n\n- Keeping lists of parties interested in some particular issue or facet of New York City life about which the City anticipates issuing further information in the future.\n\n- Sending informational updates and conducting outreach on topics such as, but not limited to, public benefits and services and upcoming City events.\n\n- Sharing information with other City agencies or offices or other government agencies for the limited purpose of facilitating services and benefits, in accordance with all applicable federal, state, and local laws and regulations.\n\n- Disclosure of such information pursuant to a request made under Freedom of Information Law (\\\"FOIL\\\") or court order, if such information is not protected by federal, or state, or local law. 6\n\nThe City does not rent or sell personally identifiable information (e.g., information such as name, address, phone number, e-mail, etc., or other information that identifies or could lead to the identification of a user as a particular person), nor would the City exchange or trade such information with third-parties without a user\\'s explicit permission. The City does not disclose credit card or other personally identifiable financial information other than as necessary to complete a credit card or other financial transaction, or upon explicit permission from the applicable user. If a NYC.gov user has elected not to receive further information from the City, NYC.gov will not send such information. If a NYC.gov user has elected to receive further communication from the City, NYC.gov will only send information in categories that are authorized by the user. If NYC.gov sends electronic mail (\\\"e-mail\\\") to a user, such e-mail is NOT confidential, 7 and is identical in nature to that information generally available to the public and news media. **Security and Monitoring** - In certain instances, a user may have the opportunity to receive or create a password to access or submit personally identifiable information.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "83676253-9386-4cc2-a572-9e5191c88ed5": {
+      "__data__": {
+        "id_": "83676253-9386-4cc2-a572-9e5191c88ed5",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "http://www.nyc.gov/privacy ",
+            "node_type": null,
+            "metadata": {},
+            "hash": "b8637ee7c427ea13b0dca42b9dd7c85e492681269b01d6eee1fbb71c951b5bd9"
+          },
+          "2": {
+            "node_id": "c4ec6a71-5bc9-4e9c-a20c-552ff888d31c",
+            "node_type": null,
+            "metadata": {},
+            "hash": "035843027a245ce9d9419fde2a24e4da16f20ab68fd53bc4115a4c0cfbfa3c58"
+          },
+          "3": {
+            "node_id": "d618a137-3ca5-4f62-9717-14e1f8898977",
+            "node_type": null,
+            "metadata": {},
+            "hash": "4d98317a32cf31e0652dda92a93e9b2e1b36fa758ea75d1a59bfe85e3a58e807"
+          }
+        },
+        "hash": "aa36193ba9252da686cdd2df8872e97111dd9108fb52a3b9b21f739e2824eb53",
+        "text": "**Security and Monitoring** - In certain instances, a user may have the opportunity to receive or create a password to access or submit personally identifiable information. One should not divulge a password to anyone, and the City will never ask a user for a password in a telephone call, fax, e-mail or other form of unsolicited communication. When a user is finished with an application or applications that are password protected, such user should exit the relevant page(s). If the browser used to access said password protected pages is a publicly-accessible browser, users should close down the entire session and, if applicable or possible, flush any temporary caches or other areas where such a password might be stored subsequent to use, and log out of all applications.\n\n- The City has integrated industry standard or better security measures and systems into the design, implementation and day to day operation of NYC.gov and its underlying servers and networks. 8 Furthermore, the City maintains ongoing efforts to identify and/or block unauthorized intrusions into or onto NYC.gov, and to upload to or change information on or otherwise cause damage to NYC.gov or the information resident hereon or submitted hereto. 9\n\n- The act of using NYC.gov constitutes the User's express consent to the City's monitoring of all uses of the system. If such monitoring reveals possible evidence of criminal activity or any other unauthorized use, system administration personnel may provide your information to law enforcement or other officials, as authorized or required by law.\n\n**Cookies** - Cookies are text files, or entries in larger files, utilized to distinguish between visitors to a website, and to track information during multiple visits to a website. The City uses \\\"temporary cookies\\\"\u00a0[**^[10]{.underline}^**](https://www.nyc.gov/home/privacy-policy.page#note_ten)\u00a0on some parts of NYC.gov, and such temporary cookies expire upon the end of the browsing session. This website and NYC.gov generally, do not use \\\"persistent cookies.\\\"\u00a0[**^[11]{.underline}^**](https://www.nyc.gov/home/privacy-policy.page#note_eleven)\u00a0However, if a user registers to use NYC.gov as a customized portal, the City uses a persistent cookie to facilitate such customization.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "d618a137-3ca5-4f62-9717-14e1f8898977": {
+      "__data__": {
+        "id_": "d618a137-3ca5-4f62-9717-14e1f8898977",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "http://www.nyc.gov/privacy ",
+            "node_type": null,
+            "metadata": {},
+            "hash": "b8637ee7c427ea13b0dca42b9dd7c85e492681269b01d6eee1fbb71c951b5bd9"
+          },
+          "2": {
+            "node_id": "83676253-9386-4cc2-a572-9e5191c88ed5",
+            "node_type": null,
+            "metadata": {},
+            "hash": "aa36193ba9252da686cdd2df8872e97111dd9108fb52a3b9b21f739e2824eb53"
+          },
+          "3": {
+            "node_id": "06df5ecf-5d8e-45bb-940d-fbeb884f1f74",
+            "node_type": null,
+            "metadata": {},
+            "hash": "caeb50e071aa540a725b05230a390cacdcd890a63ef21a3b0aacb69e0b3eb0c4"
+          }
+        },
+        "hash": "4d98317a32cf31e0652dda92a93e9b2e1b36fa758ea75d1a59bfe85e3a58e807",
+        "text": "The City may also use persistent cookies to understand the distribution and patterns of unique and repeat visitors for 311 Online and other sites on NYC.gov to enhance their accessibility.\n\n- The use of cookies is a standard practice among Internet websites. Most Internet web browsers may be customized to reject cookies, to only accept or reject cookies by user intervention, or to delete cookies. Rejecting and/or removing cookies, however, may lead to loss of functionality on those NYC.gov pages requiring cookies to function fully. Additionally, if a user has created a customized version of NYC.gov, the City will create a cookie that contains the user\\'s unique identifier and indicator for any custom content modules requested and, if a user elected the \\\"remember me\\\" option for signing in to NYC.gov, the cookie will contain a user\\'s password. Deletion of such a cookie could result in the loss of one\\'s customized NYC.gov portal setting\n\n**Web Bugs (a/k/a Web Beacons)** > NYC.gov does not use web bugs 12 on its web pages or in any html e-mail generated by use of the portal, or otherwise sent from NYC.gov, for any purpose other than to identify site performance needs; to ensure compatibility with the technology used by NYC.gov\\'s visitors, and to generally add and improve services offered on NYC.gov. **Children** - No applications on NYC.gov specifically solicit information from minors or seek to determine whether the visitor is a minor. Consequently, because such information will not be specifically identified as being from minors, users of NYC.gov should be aware that personally identifiable information submitted to NYC.gov by minors will be subject to being treated in the same manner as information given by an adult and may become subject to FOIL.\n\n- The City strongly believes that parental supervision is an important factor in Internet use by minors. Therefore, NYC.gov asks parents to guide their minor children when children are asked to provide any personal information online. NYC.gov further asks that children ask for and receive their parent\\'s permission before providing any information online.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "06df5ecf-5d8e-45bb-940d-fbeb884f1f74": {
+      "__data__": {
+        "id_": "06df5ecf-5d8e-45bb-940d-fbeb884f1f74",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "http://www.nyc.gov/privacy ",
+            "node_type": null,
+            "metadata": {},
+            "hash": "b8637ee7c427ea13b0dca42b9dd7c85e492681269b01d6eee1fbb71c951b5bd9"
+          },
+          "2": {
+            "node_id": "d618a137-3ca5-4f62-9717-14e1f8898977",
+            "node_type": null,
+            "metadata": {},
+            "hash": "4d98317a32cf31e0652dda92a93e9b2e1b36fa758ea75d1a59bfe85e3a58e807"
+          },
+          "3": {
+            "node_id": "cdb429d0-ab47-4968-ad55-3de7732b6972",
+            "node_type": null,
+            "metadata": {},
+            "hash": "c541af013732537ca8539650a4c5f4f9bce0d86cbd3e31f17ce810b899f2817b"
+          }
+        },
+        "hash": "caeb50e071aa540a725b05230a390cacdcd890a63ef21a3b0aacb69e0b3eb0c4",
+        "text": "Therefore, NYC.gov asks parents to guide their minor children when children are asked to provide any personal information online. NYC.gov further asks that children ask for and receive their parent\\'s permission before providing any information online.\n\n**Health Care Information** > Any agency subject to the Health Insurance Portability and Accountability Act of 1996 and its regulations (collectively, \\\"HIPAA\\\") that creates, receives, maintains, or transmits via NYC.gov any Protected Health Information (\"PHI\"), as that term is defined by HIPAA, must comply with HIPAA's Privacy and Security Rules. The agency must also require its Business Associates, as that term is defined by HIPAA, to comply with HIPAA when, on behalf of the agency, each such Business Associate creates, receives, maintains, or transmits PHI hosted by NYC.gov. Nothing stated herein shall be interpreted to diminish the compliance requirements imposed by any other applicable law or City policy. **Third Party Links** - NYC.gov provides links to, and may be linked from, local, State and federal government agencies, and from, or to, other websites. The existence and/or provision of those links neither constitutes nor implies endorsement of the destination or departure website(s) or of the content, viewpoint, accuracy, opinions, policy(ies), product(s), accessibility or privacy policy of said destination or departure website(s). Nor does any link between NYC.gov and a third-party website imply sponsorship of such website, or the creator of such website\n\n- Some content on portions of NYC.gov resides on servers run by third parties. 13 Each agency providing content for NYC.gov is bound by NYC.gov\\'s Privacy Policy. Any agency using a third-party host, ISP, ASP or other combination of third-party transport, storage, content or application provision services shall require such third party to comply with NYC.gov\\'s Privacy Policy.\n\n**Intellectual Property** The content of NYC.gov\\'s webpages is copyrighted, and contains some third party images/graphics that are used with permission. Users are notified, therefore, that one should presume the need to obtain permission from the copyright holder before reproducing or otherwise using images/graphics from this website. **NYC.gov may change this policy from time to time, and reserves the right to do so without notice.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "cdb429d0-ab47-4968-ad55-3de7732b6972": {
+      "__data__": {
+        "id_": "cdb429d0-ab47-4968-ad55-3de7732b6972",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "http://www.nyc.gov/privacy ",
+            "node_type": null,
+            "metadata": {},
+            "hash": "b8637ee7c427ea13b0dca42b9dd7c85e492681269b01d6eee1fbb71c951b5bd9"
+          },
+          "2": {
+            "node_id": "06df5ecf-5d8e-45bb-940d-fbeb884f1f74",
+            "node_type": null,
+            "metadata": {},
+            "hash": "caeb50e071aa540a725b05230a390cacdcd890a63ef21a3b0aacb69e0b3eb0c4"
+          },
+          "3": {
+            "node_id": "daf2261a-c32f-450e-b763-e6739002931d",
+            "node_type": null,
+            "metadata": {},
+            "hash": "bbf80ec346a11a528a807e3932884253c6596eb2364887577c7291890f8f059a"
+          }
+        },
+        "hash": "c541af013732537ca8539650a4c5f4f9bce0d86cbd3e31f17ce810b899f2817b",
+        "text": "Users are notified, therefore, that one should presume the need to obtain permission from the copyright holder before reproducing or otherwise using images/graphics from this website. **NYC.gov may change this policy from time to time, and reserves the right to do so without notice.** **Privacy Statement Footnotes** - An IP address is a numeric value assigned to an Internet Service Provider, a computer network, an individual computer or router, or a firewall (collectively, \\\"users\\\") so that other computers on the Internet may direct Internet message or other traffic to such users.Until the IP addressing system is changed, an IP address will take the form of XXX.XXX.XXX.XXX, where the X\\'s are numbers between 1 and 9, and 0 for some positions. The term \"user\" may also refer to an individual who has created an account on NYC.gov and any of its subpages.\n\n- Go Back\n\n- A Domain Name is an alphanumeric value that represents the plain language (English or such other local language as is relevant) translation of the IP address assigned to a specific user or collection of users. For example, if a user had an IP address of 123.123.123.123, the Domain Name that represented that address might be [WWW.HOME.COM](http://WWW.HOME.COM).\n\n- Go Back\n\n- Commercial and non-commercial marketing purposes include, for the purposes of this policy, Unsolicited Commercial Electronic Mail (colloquially known as \\\"SPAM\\\" e-mail), targeted e-mail for the purpose of selling products, or the sale or exchange of personally identifiable information between parties that anticipate receiving value in exchange for such information.\n\n- Go Back\n\n- The City of New York\\'s duties and obligations toward its citizens are set forth in the City Charter and in all applicable and relevant federal, state, and local law.\n\n- Go Back\n\n- When the City is investigating a problem reported to NYC.gov, the information you have submitted through NYC.gov may be seen by various people. Among other City actions, we may enter the information you send into our electronic database to share it with our attorneys and investigators involved in law enforcement or public policy development. We may also share it with a variety of other government agencies enforcing consumer protection, competition, and other laws. You may be contacted by any of those agencies.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "daf2261a-c32f-450e-b763-e6739002931d": {
+      "__data__": {
+        "id_": "daf2261a-c32f-450e-b763-e6739002931d",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "http://www.nyc.gov/privacy ",
+            "node_type": null,
+            "metadata": {},
+            "hash": "b8637ee7c427ea13b0dca42b9dd7c85e492681269b01d6eee1fbb71c951b5bd9"
+          },
+          "2": {
+            "node_id": "cdb429d0-ab47-4968-ad55-3de7732b6972",
+            "node_type": null,
+            "metadata": {},
+            "hash": "c541af013732537ca8539650a4c5f4f9bce0d86cbd3e31f17ce810b899f2817b"
+          },
+          "3": {
+            "node_id": "3cd3e5d6-ff13-40a4-9a6b-1b9d48f60bec",
+            "node_type": null,
+            "metadata": {},
+            "hash": "607137ecba9590923b0afbf15a4f9d0513bafc96959d9cf1cbd8ef6db965b9f4"
+          }
+        },
+        "hash": "bbf80ec346a11a528a807e3932884253c6596eb2364887577c7291890f8f059a",
+        "text": "We may also share it with a variety of other government agencies enforcing consumer protection, competition, and other laws. You may be contacted by any of those agencies.\n\n- Go Back\n\n- Pursuant to Article 6 of NYS Public Officers Law 87, certain categories of information may be exempt from such disclosure under FOIL including, but not limited to, records whose disclosure would constitute an unwarranted invasion of personal privacy under 89(2) of Article 6, or might endanger the life or safety of any person.\n\n- Go Back\n\n- E-mail is generally not secure against interception. If a communication is very sensitive, or includes personal information like a bank account, charge card, or other personal information, it is more prudent to send such communication by postal mail instead.\n\n- Go Back\n\n- The City maintains user registration information behind a \\\"firewall\\\" and limits accessibility to such information to only those few employees that have special access rights to production systems. Sensitive information submitted by users is transmitted by Secure Socket Layer (\\\"SSL\\\") technology and encrypted.\n\n- Go Back\n\n- For site security purposes and to ensure that this service remains available to all users, the City employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act, and such other federal, state or local law as is applicable.\n\n- **Go Back**\n\n- Temporary or \\\"Session Cookies\\\" are cookie files that last or are valid only during an active communications connection, measured from beginning to end, between computer or applications (or some combination thereof) over a network.\n\n- Go Back\n\n- Persistent cookies are cookie files that remain upon a user\\'s hard drive until affirmatively removed, or until expired as provided for by a pre-set expiration date.\n\n- Go Back\n\n- A web bug is a clear, camouflaged or otherwise invisible graphics image format (\\\"GIF\\\") file placed upon a web page or in hypertext markup language (\\\"HTML\\\") e-mail and used to monitor who is reading a web page or the relevant email. Web bugs can also be used for other monitoring purposes such a profiling of the affected party.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "3cd3e5d6-ff13-40a4-9a6b-1b9d48f60bec": {
+      "__data__": {
+        "id_": "3cd3e5d6-ff13-40a4-9a6b-1b9d48f60bec",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "http://www.nyc.gov/privacy ",
+            "node_type": null,
+            "metadata": {},
+            "hash": "b8637ee7c427ea13b0dca42b9dd7c85e492681269b01d6eee1fbb71c951b5bd9"
+          },
+          "2": {
+            "node_id": "daf2261a-c32f-450e-b763-e6739002931d",
+            "node_type": null,
+            "metadata": {},
+            "hash": "bbf80ec346a11a528a807e3932884253c6596eb2364887577c7291890f8f059a"
+          }
+        },
+        "hash": "607137ecba9590923b0afbf15a4f9d0513bafc96959d9cf1cbd8ef6db965b9f4",
+        "text": "Web bugs can also be used for other monitoring purposes such a profiling of the affected party.\n\n- Go Back\n\n- These third parties are computers, computer networks, ISPs, or application service providers (\\\"ASPs\\\") that are non-governmental in nature and have direct control of what information is automatically gathered, whether cookies are used, and how voluntarily provided information is used.\n\n- Go Back",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "81274762-9994-4b8b-8402-6f4bbefabde8": {
+      "__data__": {
+        "id_": "81274762-9994-4b8b-8402-6f4bbefabde8",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://www.nyc.gov/home/terms-of-use.page",
+            "node_type": null,
+            "metadata": {},
+            "hash": "abe80495f915973bc4e9af56d982f75bab0444b12f43fd9ad3f380fc94c31e7f"
+          },
+          "3": {
+            "node_id": "0b6104d0-55cf-40ac-99e3-8499f634823d",
+            "node_type": null,
+            "metadata": {},
+            "hash": "acbc8b7de9f32b7ddea38c241238ac861fb0170cd0675e3a6e583d39eacc1322"
+          }
+        },
+        "hash": "14358c1133a4ea3941805ee985f67be9eb88975f59943a03df1c8a41864fb1bb",
+        "text": "**Terms of use** **Welcome to New York City\\'s Official Website.** PLEASE READ THE FOLLOWING TERMS OF USE (\\\"TERMS\\\") CAREFULLY BEFORE USING THIS WEBSITE. BY ACCESSING OR USING NEW YORK CITY\\'S (\\\"CITY\\\") WEBSITE, INCLUDING BUT NOT LIMITED TO ALL SUBPAGES (\\\"NYC.gov\\\"), YOU UNDERSTAND AND AGREE, WITHOUT LIMITATION OR QUALIFICATION, TO THESE TERMS. **YOU'RE USE OF NYC.gov** You agree to access and use NYC.gov only for lawful purposes. You are solely responsible for the knowledge of and adherence to any and all laws, statutes, rules and regulations pertaining to your use of NYC.gov. By accessing NYC.gov, you agree that you will not: - use NYC.gov to commit a criminal offense or to encourage others to engage in any conduct which would constitute a criminal offense;\n\n- use NYC.gov in a way to give rise to civil liability or encourage others to engage in any conduct which would give rise to civil liability;\n\n- use NYC.gov to impersonate other parties or entities;\n\n- use NYC.gov to upload any content that contains a software virus, \\\"Trojan Horse\\\" or any other computer code, files, or programs that may alter, damage, or interrupt the functionality of NYC.gov or the hardware or software of any other person who accesses NYC.gov;\n\n- upload, post, email, or otherwise transmit any materials that you do not have a right to transmit under any law or contractual relationship;\n\n- alter, damage, or delete any content posted on NYC.gov;\n\n- disrupt NYC.gov or its servers or networks in any way; or\n\n- claim a relationship with or represent any business, association, or other organization with which you are not authorized to claim such a relationship or to represent.\n\n> The City reserves the right to suspend any NYC.gov account and/or suspend access to NYC.gov if the City has reason to believe that the account/access is being used for any of the prohibited purposes enumerated in Section I(A)(1-8) above. The City shall provide notice of such suspension if you have provided the City with an email or other electronic address or mail address when accessing NYC.gov.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "0b6104d0-55cf-40ac-99e3-8499f634823d": {
+      "__data__": {
+        "id_": "0b6104d0-55cf-40ac-99e3-8499f634823d",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://www.nyc.gov/home/terms-of-use.page",
+            "node_type": null,
+            "metadata": {},
+            "hash": "abe80495f915973bc4e9af56d982f75bab0444b12f43fd9ad3f380fc94c31e7f"
+          },
+          "2": {
+            "node_id": "81274762-9994-4b8b-8402-6f4bbefabde8",
+            "node_type": null,
+            "metadata": {},
+            "hash": "14358c1133a4ea3941805ee985f67be9eb88975f59943a03df1c8a41864fb1bb"
+          },
+          "3": {
+            "node_id": "c1646a13-0bf4-41b7-b100-86655bd713a3",
+            "node_type": null,
+            "metadata": {},
+            "hash": "7fbd086752cd4ef547b8afe7992c3e34cc3d75f7729c06ba41012ca7f0053374"
+          }
+        },
+        "hash": "acbc8b7de9f32b7ddea38c241238ac861fb0170cd0675e3a6e583d39eacc1322",
+        "text": "The City shall provide notice of such suspension if you have provided the City with an email or other electronic address or mail address when accessing NYC.gov. (Notice shall be given to you at (one of) the address(es) provided.) **YOUR PASSWORDS AND ACCOUNT SECURITY** - You agree and understand that you are responsible for maintaining the security and confidentiality of passwords associated with any account you use on NYC.gov.\n\n- Accordingly, you agree that you will be solely responsible to the City for all activities that occur under your account.\n\n- If you become aware of any unauthorized use of your password or of your account, you agree to notify the City immediately by visiting the Password and Account Problems page.\n\n- The City reserves the right to suspend your account if the City deems you are using the account in violation of Article I of these Terms above or in violation of Article II of the Terms of Use for New York City\\'s NYC.ID Application (\\\"NYC.ID Application\\\").\n\n**\u00a0INFORMATION YOU PROVIDE** In order to use certain aspects of NYC.gov, you may be required to provide information about yourself. You agree that any information you give to the City will always be accurate, correct and up to date. To learn how the City may use such information, please visit the\u00a0[[NYC.gov Privacy Policy]{.underline}](http://www.nyc.gov/privacy)\u00a0and the Terms of Use for the NYC.ID Application, the latter of which addresses the creation of user accounts on NYC.gov. **INTELLECTUAL PROPERTY** The City respects the intellectual property of others and it asks its users to do the same. Service marks and trademarks contained in or displayed on NYC.gov, and the contents of linked sites operated by third parties, are the property of their respective owners (which may be the City). All other design, information, text, graphics, images, pages, interfaces, links, software, and other items and materials contained in or displayed on NYC.gov, and the selection and arrangements thereof, are the property of the City of New York. All rights are reserved.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "c1646a13-0bf4-41b7-b100-86655bd713a3": {
+      "__data__": {
+        "id_": "c1646a13-0bf4-41b7-b100-86655bd713a3",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://www.nyc.gov/home/terms-of-use.page",
+            "node_type": null,
+            "metadata": {},
+            "hash": "abe80495f915973bc4e9af56d982f75bab0444b12f43fd9ad3f380fc94c31e7f"
+          },
+          "2": {
+            "node_id": "0b6104d0-55cf-40ac-99e3-8499f634823d",
+            "node_type": null,
+            "metadata": {},
+            "hash": "acbc8b7de9f32b7ddea38c241238ac861fb0170cd0675e3a6e583d39eacc1322"
+          },
+          "3": {
+            "node_id": "8873f352-ae57-4917-aad7-1e2255cc3a8c",
+            "node_type": null,
+            "metadata": {},
+            "hash": "08a339c7cbf6270f0a825cd070a4714fc3469681f37970192bbf783a525290b5"
+          }
+        },
+        "hash": "7fbd086752cd4ef547b8afe7992c3e34cc3d75f7729c06ba41012ca7f0053374",
+        "text": "All other design, information, text, graphics, images, pages, interfaces, links, software, and other items and materials contained in or displayed on NYC.gov, and the selection and arrangements thereof, are the property of the City of New York. All rights are reserved. Digital Millennium Copyright Act (\\\"DMCA\\\") Notice/Takedown Request If you believe that your work has been copied in a way that constitutes copyright infringement via its display on, or other use by, NYC.gov, you may submit a notice pursuant to the DMCA by providing the City\\'s DMCA Designated Agent (see Section IV(E) below) with the following information in writing: - a physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;\n\n- identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works are covered by a single notification, a representative list of such works;\n\n- identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the City to locate the material;\n\n- information reasonably sufficient to permit the City to contact you, such as an address, telephone number, and, if available, an email address;\n\n- a statement that you (and, if applicable, the person or entity on whose behalf you are acting) have a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and\n\n- a statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.\n\n> DMCA Counter-Notice You do not have the right to post material to NYC.gov unless given such right by the City.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "8873f352-ae57-4917-aad7-1e2255cc3a8c": {
+      "__data__": {
+        "id_": "8873f352-ae57-4917-aad7-1e2255cc3a8c",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://www.nyc.gov/home/terms-of-use.page",
+            "node_type": null,
+            "metadata": {},
+            "hash": "abe80495f915973bc4e9af56d982f75bab0444b12f43fd9ad3f380fc94c31e7f"
+          },
+          "2": {
+            "node_id": "c1646a13-0bf4-41b7-b100-86655bd713a3",
+            "node_type": null,
+            "metadata": {},
+            "hash": "7fbd086752cd4ef547b8afe7992c3e34cc3d75f7729c06ba41012ca7f0053374"
+          },
+          "3": {
+            "node_id": "300b3f80-43b1-4126-a801-40f37b0133f8",
+            "node_type": null,
+            "metadata": {},
+            "hash": "0503178c7b51a4ead7d617e70554257cd7553702d50cebbe620d1867f113bfc4"
+          }
+        },
+        "hash": "08a339c7cbf6270f0a825cd070a4714fc3469681f37970192bbf783a525290b5",
+        "text": "> DMCA Counter-Notice You do not have the right to post material to NYC.gov unless given such right by the City. If the City has given you permission to post an array of material to NYC.gov, and the specific material you posted has been taken down pursuant to the DMCA, you may submit a counter-notice pursuant to the DMCA by providing the City\\'s DMCA Designated Agent (see Section IV(E) below) with the following information in writing: - your physical or electronic signature;\n\n- identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled;\n\n- a statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; and\n\n- your name, address, and telephone number, and a statement that the you consent to the jurisdiction of the United States federal district court for the judicial district in which your address is located, or if your address is outside of the United States, that you consent for any judicial district in which jurisdiction of the City may be found, and that you will accept service of process from the person who provided notification under Section IV(B) above or an agent of such person.\n\nYou acknowledge that if you fail to comply with all of the above requirements for a DMCA Notice/Counter-Notice (as applicable), your Notice/Counter-Notice may not be valid. The City\\'s Designated Agent under the DMCA for NYC.gov is Dominic Mauro, who can be reached as follows: Dominic Mauro Records Access Counsel City of New York Department of Information Technology and Telecommunications 255 Greenwich Street, 9th Floor New York, NY 10007 By email:\u00a0[[copyright@doitt.nyc.gov]{.underline}](mailto:copyright@doitt.nyc.gov) For clarity, only DMCA notices should go to the Designated Agent. To request permission to use City intellectual property located on NYC.gov, please visit the\u00a0[[List of NYC Agencies]{.underline}](http://www1.nyc.gov/nyc-resources/agencies.page)\u00a0and then contact the appropriate agency.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "300b3f80-43b1-4126-a801-40f37b0133f8": {
+      "__data__": {
+        "id_": "300b3f80-43b1-4126-a801-40f37b0133f8",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://www.nyc.gov/home/terms-of-use.page",
+            "node_type": null,
+            "metadata": {},
+            "hash": "abe80495f915973bc4e9af56d982f75bab0444b12f43fd9ad3f380fc94c31e7f"
+          },
+          "2": {
+            "node_id": "8873f352-ae57-4917-aad7-1e2255cc3a8c",
+            "node_type": null,
+            "metadata": {},
+            "hash": "08a339c7cbf6270f0a825cd070a4714fc3469681f37970192bbf783a525290b5"
+          },
+          "3": {
+            "node_id": "cb93b712-dfa6-4e20-97e1-69de24ab9530",
+            "node_type": null,
+            "metadata": {},
+            "hash": "af3a5cdcbb674c5019b5e65d7c6a644ce1fef43b8f107aa53b218d2f20a79d64"
+          }
+        },
+        "hash": "0503178c7b51a4ead7d617e70554257cd7553702d50cebbe620d1867f113bfc4",
+        "text": "To request permission to use City intellectual property located on NYC.gov, please visit the\u00a0[[List of NYC Agencies]{.underline}](http://www1.nyc.gov/nyc-resources/agencies.page)\u00a0and then contact the appropriate agency. For any other questions about NYC.gov, please visit our\u00a0[[contact page]{.underline}](http://www.nyc.gov/contact). **LINKS TO SITES OF NON-CITY ENTITIES** NYC.gov may contain links to other sites on the Internet that are operated by parties other than the City. The City does not imply approval of the listed destinations, warrant the accuracy of any information set out in those destinations, or endorse any opinions expressed therein. Like NYC.gov, all other websites operate under the auspices and at the direction of their respective owners who should be contacted directly with questions regarding the content of those sites. **DISCLAIMERS** NYC.GOV AND ALL MATERIALS CONTAINED ON IT ARE DISTRIBUTED AND TRANSMITTED \\\"AS IS\\\" AND \\\"AS AVAILABLE\\\" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE WITH RESPECT TO THE QUALITY, CONTENT, ACCURACY, COMPLETENESS, CURRENCY, FREEDOM FROM INTERRUPTION, FREEDOM FROM COMPUTER VIRUS, FREEDOM FROM ERRORS OR OMISSIONS, NON-INFRINGEMENT OF CONTENT PLACED ON NYC.GOV (WHETHER BY THE CITY OR A THIRD PARTY) INCLUDING ANY OF THE DESIGN, INFORMATION, TEXT, GRAPHICS, IMAGES, PAGES, INTERFACES, LINKS, SOFTWARE, OR OTHER MATERIALS AND ITEMS CONTAINED IN OR DISPLAYED ON NYC.GOV.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "cb93b712-dfa6-4e20-97e1-69de24ab9530": {
+      "__data__": {
+        "id_": "cb93b712-dfa6-4e20-97e1-69de24ab9530",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://www.nyc.gov/home/terms-of-use.page",
+            "node_type": null,
+            "metadata": {},
+            "hash": "abe80495f915973bc4e9af56d982f75bab0444b12f43fd9ad3f380fc94c31e7f"
+          },
+          "2": {
+            "node_id": "300b3f80-43b1-4126-a801-40f37b0133f8",
+            "node_type": null,
+            "metadata": {},
+            "hash": "0503178c7b51a4ead7d617e70554257cd7553702d50cebbe620d1867f113bfc4"
+          },
+          "3": {
+            "node_id": "e0d27471-02b5-4af4-b273-61d125103401",
+            "node_type": null,
+            "metadata": {},
+            "hash": "943cfaacdb0163740400a451b7b92f731683ae07336bd7581ef079e202245360"
+          }
+        },
+        "hash": "af3a5cdcbb674c5019b5e65d7c6a644ce1fef43b8f107aa53b218d2f20a79d64",
+        "text": "THE CITY IS NOT RESPONSIBLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES (REGARDLESS OF WHETHER THEY WERE FORESEEABLE) THAT MAY ARISE FROM THE USE OF, OR THE INABILITY TO USE, NYC.GOV AND/OR THE MATERIALS CONTAINED ON NYC.GOV WHETHER THE MATERIALS CONTAINED ON NYC.GOV ARE PROVIDED BY THE CITY OR A THIRD PARTY. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF NYC.GOV IS DONE AT YOUR OWN DISCRETION AND RISK. YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR OTHER DEVICE OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL. CHANGES ARE MADE PERIODICALLY TO THE CITY CHARTER AND MANY CITY LAWS, RULES, FORMS AND SCHEDULES, AND THESE CHANGES MAY OR MAY NOT BE IMMEDIATELY REFLECTED IN THE MATERIALS OR INFORMATION PRESENT ON NYC.GOV. **MISCELLANEOUS TERMS** Nothing contained in or displayed on NYC.gov or in these Terms constitutes or is intended to constitute legal advice by the City or any of its agencies, officers, employees, agents, attorneys, or representatives. You agree that if the City does not exercise or enforce any legal right or remedy which is contained in these Terms (or which the City otherwise has under applicable law), such omission will not be taken to be a formal waiver of the City\\'s rights and shall not be construed to be a modification of these Terms. If any court of competent jurisdiction rules that any provision of these Terms is invalid, then that provision will be removed from these Terms without affecting the rest of these Terms. The remaining provisions of these Terms will continue to be valid and enforceable. These Terms, and your relationship with the City under these Terms, shall be governed by and construed in accordance with the Laws of the State of New York (notwithstanding New York choice-of-law rules).",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "e0d27471-02b5-4af4-b273-61d125103401": {
+      "__data__": {
+        "id_": "e0d27471-02b5-4af4-b273-61d125103401",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://www.nyc.gov/home/terms-of-use.page",
+            "node_type": null,
+            "metadata": {},
+            "hash": "abe80495f915973bc4e9af56d982f75bab0444b12f43fd9ad3f380fc94c31e7f"
+          },
+          "2": {
+            "node_id": "cb93b712-dfa6-4e20-97e1-69de24ab9530",
+            "node_type": null,
+            "metadata": {},
+            "hash": "af3a5cdcbb674c5019b5e65d7c6a644ce1fef43b8f107aa53b218d2f20a79d64"
+          }
+        },
+        "hash": "943cfaacdb0163740400a451b7b92f731683ae07336bd7581ef079e202245360",
+        "text": "The remaining provisions of these Terms will continue to be valid and enforceable. These Terms, and your relationship with the City under these Terms, shall be governed by and construed in accordance with the Laws of the State of New York (notwithstanding New York choice-of-law rules). You agree that any and all claims asserted by or against the City arising under or related to these Terms shall solely be heard and determined either in the courts of the United States located in the City or County of New York or in the courts of the State of New York located in the City and County of New York. The City reserves the right to revise and otherwise change these Terms at any time and without notice. Any modification is effective immediately upon posting, unless otherwise stated. Your continued use of NYC.gov following the posting of any modification signifies your acceptance thereof. You should periodically visit this page to review the current Terms of Use. These Terms, the NYC.gov Privacy Policy, and, if you use it, the Terms of Use of the NYC.ID Application, constitute the entire agreement between you and the City with respect to your use of NYC.gov and they supersede all prior or contemporaneous communications and proposals, whether electronic, oral or written, between you and the City with respect to NYC.gov. These Terms shall be deemed to include all other notices, policies, disclaimers and other terms contained in NYC.gov and its subpages; provided, however, that in the event of a conflict between such other terms and these Terms, the inconsistent terms shall control in the following descending order: (1) NYC.ID Application (if applicable); (2) these Terms and the NYC.gov Privacy Policy; and (3) other terms contained in NYC.gov and its subpages. Technical inquiries regarding the NYC.gov domain should be directed to hostmaster@nyc.gov.",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    },
+    "b46a814b-3604-4149-857a-cc9ef84d38f8": {
+      "__data__": {
+        "id_": "b46a814b-3604-4149-857a-cc9ef84d38f8",
+        "embedding": null,
+        "metadata": {},
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+          "1": {
+            "node_id": "https://housingconnect.nyc.gov/PublicWeb",
+            "node_type": null,
+            "metadata": {},
+            "hash": "5bf551b1ad628e6f62736a1377faf4825b0ddc4d53424ec2b89f01b81ae05070"
+          }
+        },
+        "hash": "6f1ae0d3968b9386d9d5b35dad7ff5d8b7923d94c28fbb3c82ac833882d58b1d",
+        "text": "**Welcome to NYC Housing Connect** NYC Housing Connect is your portal to find and apply for affordable rental and homeownership opportunities across the five boroughs of New York City. How does Housing Connect work? - Through Housing Connect, you can find and apply for affordable rental and homeownership opportunities. To qualify, your household must meet the household income and size requirements for a unit in the affordable development.\n\n**Complete your profile** - Remember to update your profile each time your income or household information changes.\n\n**Apply to lotteries** - Check often for new developments that fit your household. It may take several months for applications to be processed. You may apply to multiple different lotteries at once.\n\n**Selection** - If selected, confirm your eligibility, provide documents to show you qualify for an apartment in the development\n\n**Sign a lease or complete a purchase** - If you are matched to a specific unit, you may sign a lease or complete purchase.\n\n**Start applying to lotteries today** - Tell us about yourself and the rest of your household\n\n- Search through the lotteries you're eligible for, and apply\n\n- If selected, we'll guide you through the process of working with the building developers, all the way through to move-in day\n\nNeed help? Check out our Frequently Asked Questions (FAQ)Housing Ambassadors are community based service proviers who can provide information and assistance with the application process",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+      },
+      "__type__": "1"
+    }
+  },
+  "docstore/ref_doc_info": {
+    "https://housingconnect.nyc.gov/PublicWeb/about-us": {
+      "node_ids": [
+        "9916c485-1702-4121-b659-0b18401df18c",
+        "031a9bb3-9dfa-4e9a-9749-e0805038bbd8",
+        "e0d2b2d5-87ad-41fa-8b48-7c04051c2237",
+        "29cb523d-fec7-4b80-8939-c0feb457b1e4",
+        "884215ae-8a47-4ae3-b110-bb50b3e75f6f"
+      ],
+      "metadata": {}
+    },
+    "https://www.nyc.gov/assets/hpd/downloads/pdfs/services/applying-to-affordable-housing-english.pdf": {
+      "node_ids": [
+        "19e72c81-80ac-4214-97ae-7064ca73ce5a",
+        "d4bd8016-6e88-40e1-8501-94a45d101835",
+        "32e91b0b-9044-4944-87bd-47e1b371557d",
+        "c7c5f9ff-ec65-4b6b-9d2b-cab4e422b63e"
+      ],
+      "metadata": {}
+    },
+    "https://housingconnect.nyc.gov/PublicWeb/faq": {
+      "node_ids": [
+        "649c8110-90ff-476a-bb1d-3d4a34cbf005",
+        "a1f193a1-557f-4aa4-8056-ea7cb8fe77fa",
+        "9f984b63-46ec-4c2d-b8e5-3fdc223481ca",
+        "dea69f1a-2c8d-4b2e-9c71-e9df9db69c3d",
+        "97974302-ce3a-4ccd-8a7e-d9f9e6f9c1ca",
+        "93aaea58-cadf-4cd9-81f2-e87adb9bc6d5",
+        "92c794e5-cd61-4364-9fd5-df69613ec09e",
+        "45b1600b-0a0d-40b3-9f32-4d5b5187a15a",
+        "f1f847cb-733c-47f1-83a2-3e8763500507",
+        "6a36eaa2-ab52-4ffb-8c2a-c1778d759a5c",
+        "c14091a3-4eab-408f-bb51-319af2d88f4e",
+        "b7a83683-2268-4d28-a936-fab4a74f1ecf"
+      ],
+      "metadata": {}
+    },
+    "https://housingconnect.nyc.gov/PublicWeb/about-us/training": {
+      "node_ids": [
+        "b5e745eb-39ec-4a4c-b680-3c51fafdcbc6",
+        "48d5531d-36f8-4455-8763-8a381de45a07",
+        "7e0019e8-e9dd-4b5f-9e55-2f28a123dcb6",
+        "188508c1-debd-47f9-8fd1-17e2787bf710",
+        "98ea6624-ad95-45bd-a2eb-78b3af3cb9e7"
+      ],
+      "metadata": {}
+    },
+    "http://www.nyc.gov/privacy ": {
+      "node_ids": [
+        "54baaf4f-ecf1-4f69-9318-41694d530dc5",
+        "c4ec6a71-5bc9-4e9c-a20c-552ff888d31c",
+        "83676253-9386-4cc2-a572-9e5191c88ed5",
+        "d618a137-3ca5-4f62-9717-14e1f8898977",
+        "06df5ecf-5d8e-45bb-940d-fbeb884f1f74",
+        "cdb429d0-ab47-4968-ad55-3de7732b6972",
+        "daf2261a-c32f-450e-b763-e6739002931d",
+        "3cd3e5d6-ff13-40a4-9a6b-1b9d48f60bec"
+      ],
+      "metadata": {}
+    },
+    "https://www.nyc.gov/home/terms-of-use.page": {
+      "node_ids": [
+        "81274762-9994-4b8b-8402-6f4bbefabde8",
+        "0b6104d0-55cf-40ac-99e3-8499f634823d",
+        "c1646a13-0bf4-41b7-b100-86655bd713a3",
+        "8873f352-ae57-4917-aad7-1e2255cc3a8c",
+        "300b3f80-43b1-4126-a801-40f37b0133f8",
+        "cb93b712-dfa6-4e20-97e1-69de24ab9530",
+        "e0d27471-02b5-4af4-b273-61d125103401"
+      ],
+      "metadata": {}
+    },
+    "https://housingconnect.nyc.gov/PublicWeb": {
+      "node_ids": ["b46a814b-3604-4149-857a-cc9ef84d38f8"],
+      "metadata": {}
+    }
+  },
+  "docstore/metadata": {
+    "9916c485-1702-4121-b659-0b18401df18c": {
+      "doc_hash": "84f833a7f7fa2c532a8355d4cc85475f1c7192c5a8ba6a95152fbc5b57b30f98",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/about-us"
+    },
+    "031a9bb3-9dfa-4e9a-9749-e0805038bbd8": {
+      "doc_hash": "9e671ee3b42feb367bc39d1fa7828c16e96bc9da5d3a01e996a6d69d74e5489d",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/about-us"
+    },
+    "e0d2b2d5-87ad-41fa-8b48-7c04051c2237": {
+      "doc_hash": "1f16d3a22d065468208aa222518cd50ed3c97741b5f1cc85ed8db6c624df85a8",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/about-us"
+    },
+    "29cb523d-fec7-4b80-8939-c0feb457b1e4": {
+      "doc_hash": "81f0cfdcdbcc306c26355fa913d711986cd4e005a5c1d7bf79f3c6e0520f0fc1",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/about-us"
+    },
+    "884215ae-8a47-4ae3-b110-bb50b3e75f6f": {
+      "doc_hash": "b8f97fc2f2e3f48e60f94dac0500b6bbe38a48d9df32e09d2926e0928946efce",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/about-us"
+    },
+    "19e72c81-80ac-4214-97ae-7064ca73ce5a": {
+      "doc_hash": "172e3f205e022a33ebc13d94d0c57148f9e1e8f26a71d0194fb073625c721880",
+      "ref_doc_id": "https://www.nyc.gov/assets/hpd/downloads/pdfs/services/applying-to-affordable-housing-english.pdf"
+    },
+    "d4bd8016-6e88-40e1-8501-94a45d101835": {
+      "doc_hash": "e9470319b341d272155c525db8744f28e510096a81533c2ca7c0b5df86b2d5a7",
+      "ref_doc_id": "https://www.nyc.gov/assets/hpd/downloads/pdfs/services/applying-to-affordable-housing-english.pdf"
+    },
+    "32e91b0b-9044-4944-87bd-47e1b371557d": {
+      "doc_hash": "71a163369972ffccb6925e182694f05860f70d9fca074a7a9047ae09dcf6c8e3",
+      "ref_doc_id": "https://www.nyc.gov/assets/hpd/downloads/pdfs/services/applying-to-affordable-housing-english.pdf"
+    },
+    "c7c5f9ff-ec65-4b6b-9d2b-cab4e422b63e": {
+      "doc_hash": "c13d349fc851b590578f4d73b2a9c29ade5ff629a1a61466884d94b8a306a4a0",
+      "ref_doc_id": "https://www.nyc.gov/assets/hpd/downloads/pdfs/services/applying-to-affordable-housing-english.pdf"
+    },
+    "649c8110-90ff-476a-bb1d-3d4a34cbf005": {
+      "doc_hash": "062115bd6bd72309d68417fd51fbaaab46540f84f5afc52cd8bba8130e8a399f",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/faq"
+    },
+    "a1f193a1-557f-4aa4-8056-ea7cb8fe77fa": {
+      "doc_hash": "78db4d1f5da93940e531ed0df7e7a5140d33911c5164a6f7453f47185f6da46c",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/faq"
+    },
+    "9f984b63-46ec-4c2d-b8e5-3fdc223481ca": {
+      "doc_hash": "1dce692b72e603d36f27a66ba79da7eaaef8c2f26da497940b69a9ab11d67c07",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/faq"
+    },
+    "dea69f1a-2c8d-4b2e-9c71-e9df9db69c3d": {
+      "doc_hash": "bad4843c3c7b6b06934956dfeba6abefb9a1c029c12ea8845ab82ba9edb247ff",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/faq"
+    },
+    "97974302-ce3a-4ccd-8a7e-d9f9e6f9c1ca": {
+      "doc_hash": "760277b0b889326ed6d3c652ea65fde5a9b32edfca313ee48fe8a0da8d636af6",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/faq"
+    },
+    "93aaea58-cadf-4cd9-81f2-e87adb9bc6d5": {
+      "doc_hash": "c25495fd6debce2057555a0182042aaa8919d08897c4a552c8f7985161b9a5f8",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/faq"
+    },
+    "92c794e5-cd61-4364-9fd5-df69613ec09e": {
+      "doc_hash": "52ce1883e0d9efec5825bed396413497d1bf5d6edab4b4f88f341b02f8ef8663",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/faq"
+    },
+    "45b1600b-0a0d-40b3-9f32-4d5b5187a15a": {
+      "doc_hash": "529021947c997d219a95343a5daeb5d72f971a00ea63eb103978dee9bf68e498",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/faq"
+    },
+    "f1f847cb-733c-47f1-83a2-3e8763500507": {
+      "doc_hash": "58bf6a6101da6122a8b82b85b3d8b28bbcb095bfab0198bcb38e369af6a1d7bb",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/faq"
+    },
+    "6a36eaa2-ab52-4ffb-8c2a-c1778d759a5c": {
+      "doc_hash": "589a433185edc26cd705cd88dd0e4ba5ab14df1d8c7e82e49d1b7a5ffb5346c5",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/faq"
+    },
+    "c14091a3-4eab-408f-bb51-319af2d88f4e": {
+      "doc_hash": "afb398f6b704639b78f6d061204e5a452e2050f6d29a915492b4e46b6a516abc",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/faq"
+    },
+    "b7a83683-2268-4d28-a936-fab4a74f1ecf": {
+      "doc_hash": "6e6ba02b659ac92dba7adfc67b7b7ecb69ea6ebe1d5a69a859f6578824273100",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/faq"
+    },
+    "b5e745eb-39ec-4a4c-b680-3c51fafdcbc6": {
+      "doc_hash": "718eb8f5ba06219c7bec5448756d861d3aad641a641025dc1316080b4441b02d",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/about-us/training"
+    },
+    "48d5531d-36f8-4455-8763-8a381de45a07": {
+      "doc_hash": "61984b9248b890c684c5c6fd918fd01bce5cdee11d0639979c07869b775a675e",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/about-us/training"
+    },
+    "7e0019e8-e9dd-4b5f-9e55-2f28a123dcb6": {
+      "doc_hash": "a2267eb1380b824ebbb7dccd6d8d1ae64080a95bf008f346d0fc4b4f9cbd984b",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/about-us/training"
+    },
+    "188508c1-debd-47f9-8fd1-17e2787bf710": {
+      "doc_hash": "eed6af0879248a8b5b615463f9dfe56cb0890037618527d0a56cccc2d5d6c303",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/about-us/training"
+    },
+    "98ea6624-ad95-45bd-a2eb-78b3af3cb9e7": {
+      "doc_hash": "b157da1b59e17a1ac94fc82b0631812f22a41c0fd2b7c987419bb091aac3a665",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb/about-us/training"
+    },
+    "54baaf4f-ecf1-4f69-9318-41694d530dc5": {
+      "doc_hash": "4d0a14b6195c80a34021cb8a922fe31d4d9b12448e75d630eb379095e7dec40e",
+      "ref_doc_id": "http://www.nyc.gov/privacy "
+    },
+    "c4ec6a71-5bc9-4e9c-a20c-552ff888d31c": {
+      "doc_hash": "035843027a245ce9d9419fde2a24e4da16f20ab68fd53bc4115a4c0cfbfa3c58",
+      "ref_doc_id": "http://www.nyc.gov/privacy "
+    },
+    "83676253-9386-4cc2-a572-9e5191c88ed5": {
+      "doc_hash": "aa36193ba9252da686cdd2df8872e97111dd9108fb52a3b9b21f739e2824eb53",
+      "ref_doc_id": "http://www.nyc.gov/privacy "
+    },
+    "d618a137-3ca5-4f62-9717-14e1f8898977": {
+      "doc_hash": "4d98317a32cf31e0652dda92a93e9b2e1b36fa758ea75d1a59bfe85e3a58e807",
+      "ref_doc_id": "http://www.nyc.gov/privacy "
+    },
+    "06df5ecf-5d8e-45bb-940d-fbeb884f1f74": {
+      "doc_hash": "caeb50e071aa540a725b05230a390cacdcd890a63ef21a3b0aacb69e0b3eb0c4",
+      "ref_doc_id": "http://www.nyc.gov/privacy "
+    },
+    "cdb429d0-ab47-4968-ad55-3de7732b6972": {
+      "doc_hash": "c541af013732537ca8539650a4c5f4f9bce0d86cbd3e31f17ce810b899f2817b",
+      "ref_doc_id": "http://www.nyc.gov/privacy "
+    },
+    "daf2261a-c32f-450e-b763-e6739002931d": {
+      "doc_hash": "bbf80ec346a11a528a807e3932884253c6596eb2364887577c7291890f8f059a",
+      "ref_doc_id": "http://www.nyc.gov/privacy "
+    },
+    "3cd3e5d6-ff13-40a4-9a6b-1b9d48f60bec": {
+      "doc_hash": "607137ecba9590923b0afbf15a4f9d0513bafc96959d9cf1cbd8ef6db965b9f4",
+      "ref_doc_id": "http://www.nyc.gov/privacy "
+    },
+    "81274762-9994-4b8b-8402-6f4bbefabde8": {
+      "doc_hash": "14358c1133a4ea3941805ee985f67be9eb88975f59943a03df1c8a41864fb1bb",
+      "ref_doc_id": "https://www.nyc.gov/home/terms-of-use.page"
+    },
+    "0b6104d0-55cf-40ac-99e3-8499f634823d": {
+      "doc_hash": "acbc8b7de9f32b7ddea38c241238ac861fb0170cd0675e3a6e583d39eacc1322",
+      "ref_doc_id": "https://www.nyc.gov/home/terms-of-use.page"
+    },
+    "c1646a13-0bf4-41b7-b100-86655bd713a3": {
+      "doc_hash": "7fbd086752cd4ef547b8afe7992c3e34cc3d75f7729c06ba41012ca7f0053374",
+      "ref_doc_id": "https://www.nyc.gov/home/terms-of-use.page"
+    },
+    "8873f352-ae57-4917-aad7-1e2255cc3a8c": {
+      "doc_hash": "08a339c7cbf6270f0a825cd070a4714fc3469681f37970192bbf783a525290b5",
+      "ref_doc_id": "https://www.nyc.gov/home/terms-of-use.page"
+    },
+    "300b3f80-43b1-4126-a801-40f37b0133f8": {
+      "doc_hash": "0503178c7b51a4ead7d617e70554257cd7553702d50cebbe620d1867f113bfc4",
+      "ref_doc_id": "https://www.nyc.gov/home/terms-of-use.page"
+    },
+    "cb93b712-dfa6-4e20-97e1-69de24ab9530": {
+      "doc_hash": "af3a5cdcbb674c5019b5e65d7c6a644ce1fef43b8f107aa53b218d2f20a79d64",
+      "ref_doc_id": "https://www.nyc.gov/home/terms-of-use.page"
+    },
+    "e0d27471-02b5-4af4-b273-61d125103401": {
+      "doc_hash": "943cfaacdb0163740400a451b7b92f731683ae07336bd7581ef079e202245360",
+      "ref_doc_id": "https://www.nyc.gov/home/terms-of-use.page"
+    },
+    "b46a814b-3604-4149-857a-cc9ef84d38f8": {
+      "doc_hash": "6f1ae0d3968b9386d9d5b35dad7ff5d8b7923d94c28fbb3c82ac833882d58b1d",
+      "ref_doc_id": "https://housingconnect.nyc.gov/PublicWeb"
+    }
+  }
+}

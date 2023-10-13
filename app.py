@@ -28,33 +28,33 @@ class Response(BaseModel):
     sources: str
 
 
-
-
-
 query = "What are the most important maintenance steps I need to do within one year?"
 query = "Something is wrong with the scanner. What should I do?"
 
 app = Flask(__name__)
 CORS(app)
 
-@app.route('/')
+
+@app.route("/")
 def hello_world():
-    return 'Hello, World!'
+    return "Hello, World!"
+
 
 def _build_cors_preflight_response():
     response = make_response()
     response.headers.add("Access-Control-Allow-Origin", "*")
-    response.headers.add('Access-Control-Allow-Headers', "*")
-    response.headers.add('Access-Control-Allow-Methods', "*")
+    response.headers.add("Access-Control-Allow-Headers", "*")
+    response.headers.add("Access-Control-Allow-Methods", "*")
     return response
 
-@app.route('/chat', methods=['POST', 'OPTIONS'])
+
+@app.route("/chat", methods=["POST", "OPTIONS"])
 def get_response() -> dict:
-    if request.method == "OPTIONS": # CORS preflight
+    if request.method == "OPTIONS":  # CORS preflight
         return _build_cors_preflight_response()
     else:
         postData = json.loads(request.data)
-        query = postData['query']
+        query = postData["query"]
         # response query initialize
         response_query = []
         # find the appropriate index for the product
@@ -96,4 +96,4 @@ def get_response() -> dict:
 
 
 if __name__ == "__main__":
-    app.run(host= '0.0.0.0', port=8001)
+    app.run(host="0.0.0.0", port=8001)
